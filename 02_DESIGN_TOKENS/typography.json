@@ -1,0 +1,166 @@
+{
+  "$description": "Type tokens. Sizes are mobile; desktop multipliers in 'responsive'.",
+  "families": {
+    "display": {
+      "$value": "'Instrument Serif', 'Times New Roman', Georgia, serif",
+      "note": "Instrument Serif (OFL). Editorial hooks only. ◇ Original interpretation"
+    },
+    "sans": {
+      "$value": "Inter, 'Helvetica Neue', Arial, sans-serif",
+      "note": "Inter (OFL). Everything functional. ○ Reconstruction — production face not confirmed"
+    }
+  },
+  "styles": {
+    "display-xl": {
+      "fontFamily": "{families.display}",
+      "fontWeight": 400,
+      "fontSize": "56px",
+      "lineHeight": 1.0,
+      "letterSpacing": "-0.01em",
+      "maxLineLength": "18ch",
+      "textTransform": "none",
+      "usage": "Editorial hooks on cover media and deck titles. Desktop 72.",
+      "confidence": "◇ Original interpretation"
+    },
+    "display": {
+      "fontFamily": "{families.display}",
+      "fontWeight": 400,
+      "fontSize": "40px",
+      "lineHeight": 1.05,
+      "letterSpacing": "-0.005em",
+      "maxLineLength": "22ch",
+      "textTransform": "none",
+      "usage": "Section openers, onboarding statements. Desktop 56.",
+      "confidence": "◇ Original interpretation"
+    },
+    "headline-media": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 700,
+      "fontSize": "26px",
+      "lineHeight": 1.15,
+      "letterSpacing": "-0.02em",
+      "maxLineLength": "40ch",
+      "textTransform": "none",
+      "usage": "Headline laid over imagery (lock-screen hook). Two lines max.",
+      "confidence": "◐ Strong inference"
+    },
+    "h1": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 700,
+      "fontSize": "30px",
+      "lineHeight": 1.15,
+      "letterSpacing": "-0.02em",
+      "maxLineLength": "32ch",
+      "textTransform": "none",
+      "usage": "Screen titles. Desktop 40.",
+      "confidence": "○ Reconstruction"
+    },
+    "h2": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 700,
+      "fontSize": "22px",
+      "lineHeight": 1.2,
+      "letterSpacing": "-0.015em",
+      "maxLineLength": "40ch",
+      "textTransform": "none",
+      "usage": "Section headers, rail titles.",
+      "confidence": "○ Reconstruction"
+    },
+    "h3": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 600,
+      "fontSize": "17px",
+      "lineHeight": 1.3,
+      "letterSpacing": "-0.01em",
+      "maxLineLength": "48ch",
+      "textTransform": "none",
+      "usage": "Card titles.",
+      "confidence": "○ Reconstruction"
+    },
+    "body-l": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 400,
+      "fontSize": "17px",
+      "lineHeight": 1.5,
+      "letterSpacing": "0.0em",
+      "maxLineLength": "64ch",
+      "textTransform": "none",
+      "usage": "Article body, onboarding copy.",
+      "confidence": "○ Reconstruction"
+    },
+    "body": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 400,
+      "fontSize": "15px",
+      "lineHeight": 1.5,
+      "letterSpacing": "0.0em",
+      "maxLineLength": "72ch",
+      "textTransform": "none",
+      "usage": "Default body copy.",
+      "confidence": "○ Reconstruction"
+    },
+    "body-s": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 400,
+      "fontSize": "13px",
+      "lineHeight": 1.45,
+      "letterSpacing": "0.0em",
+      "maxLineLength": "72ch",
+      "textTransform": "none",
+      "usage": "Descriptions inside cards.",
+      "confidence": "○ Reconstruction"
+    },
+    "caption": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 500,
+      "fontSize": "12px",
+      "lineHeight": 1.35,
+      "letterSpacing": "0.0em",
+      "maxLineLength": "60ch",
+      "textTransform": "none",
+      "usage": "Image credits, helper text.",
+      "confidence": "○ Reconstruction"
+    },
+    "label": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 600,
+      "fontSize": "11px",
+      "lineHeight": 1.2,
+      "letterSpacing": "0.08em",
+      "maxLineLength": "24ch",
+      "textTransform": "uppercase",
+      "usage": "Kickers and category labels, uppercase.",
+      "confidence": "◐ Strong inference"
+    },
+    "button": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 600,
+      "fontSize": "15px",
+      "lineHeight": 1.0,
+      "letterSpacing": "-0.005em",
+      "maxLineLength": "24ch",
+      "textTransform": "none",
+      "usage": "Button and chip labels.",
+      "confidence": "○ Reconstruction"
+    },
+    "metadata": {
+      "fontFamily": "{families.sans}",
+      "fontWeight": 500,
+      "fontSize": "12px",
+      "lineHeight": 1.3,
+      "letterSpacing": "0.01em",
+      "maxLineLength": "48ch",
+      "textTransform": "none",
+      "usage": "Source · time · price facts, tabular numerals, middle-dot separated.",
+      "confidence": "◇ Original interpretation"
+    }
+  },
+  "responsive": {
+    "display-xl": 72,
+    "display": 56,
+    "h1": 40,
+    "h2": 28,
+    "headline-media": 32,
+    "body-l": 18
+  }
+}

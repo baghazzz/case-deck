@@ -1,0 +1,42 @@
+{
+  "radius-none": {
+    "$value": "0px",
+    "usage": "Full-bleed media, dividers",
+    "confidence": "● Observed"
+  },
+  "radius-xs": {
+    "$value": "4px",
+    "usage": "Kicker tags, progress bars",
+    "confidence": "○ Reconstruction"
+  },
+  "radius-s": {
+    "$value": "8px",
+    "usage": "Thumbnails, small media, tooltips",
+    "confidence": "○ Reconstruction"
+  },
+  "radius-m": {
+    "$value": "12px",
+    "usage": "Inputs, compact cards, list thumbnails",
+    "confidence": "○ Reconstruction"
+  },
+  "radius-l": {
+    "$value": "16px",
+    "usage": "Standard content and commerce cards",
+    "confidence": "◐ Strong inference"
+  },
+  "radius-xl": {
+    "$value": "24px",
+    "usage": "Hero cards, bottom sheets (top corners)",
+    "confidence": "◐ Strong inference"
+  },
+  "radius-2xl": {
+    "$value": "32px",
+    "usage": "Device frames and deck panels",
+    "confidence": "○ Reconstruction"
+  },
+  "radius-pill": {
+    "$value": "999px",
+    "usage": "Buttons, chips, badges, search field",
+    "confidence": "◐ Strong inference"
+  }
+}

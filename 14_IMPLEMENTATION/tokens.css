@@ -1,0 +1,124 @@
+/* Wake — A Glance-inspired design system · design tokens v1.0
+   Generated from build/tokens.py. Dark is the default theme; add data-theme="light" to any element for light.
+   ● observed  ◐ strong inference  ○ reconstruction  ◇ original interpretation
+   Colour values are observed/reconstructed approximations, not official Glance values. */
+
+:root {
+  color-scheme: dark;
+  /* colour · dark (default) */
+  --color-primary: #FF0049; /* ● Brand signal. Live dots, active indicators, icons, large display accents. Never body text on light. */
+  --color-primary-action: #E6003F; /* ◇ Filled primary button with white label (passes 4.5:1). */
+  --color-primary-dark: #B80036; /* ○ Pressed state of primary-action; primary text on light surfaces. */
+  --color-primary-light: #FF4D7D; /* ○ Links and inline emphasis on dark surfaces. */
+  --color-primary-subtle: #3A0716; /* ○ Tinted ground behind primary badges and selected chips. */
+  --color-iris: #DDBEF0; /* ● Personalisation and AI marks: For You labels, sparkle, 'because you…' lines. */
+  --color-iris-strong: #B98BDB; /* ○ Iris icons and borders; hover of iris elements. */
+  --color-iris-subtle: #251A2E; /* ○ Ground of personalisation chips and AI explanation panels. */
+  --color-stage: #000000; /* ● Full-bleed media stage and lock-screen ground. Same in both themes. */
+  --color-background: #0C0C10; /* ◐ App background. */
+  --color-surface: #16161B; /* ○ Cards and grouped content without media. */
+  --color-surface-elevated: #202027; /* ○ Sheets, menus, popovers. Light theme pairs it with shadow-2. */
+  --color-surface-muted: #2A2A33; /* ○ Inputs, skeletons, inactive chips. */
+  --color-border: rgba(255, 255, 255, 0.12); /* ○ Component borders (12% white on dark). */
+  --color-divider: rgba(255, 255, 255, 0.08); /* ○ Hairline list separators (8% white on dark). */
+  --color-text-primary: #FFFFFF; /* ◐ Headlines, body. */
+  --color-text-secondary: #B8B8C2; /* ○ Supporting copy, descriptions. */
+  --color-text-tertiary: #85838F; /* ○ Metadata, timestamps, placeholders. */
+  --color-text-on-media: #FFFFFF; /* ● Any text placed on imagery, always over a scrim. */
+  --color-text-on-primary: #FFFFFF; /* ○ Label on primary-action. */
+  --color-success: #2FD08A; /* ○ Confirmed, verified, live-fresh data. */
+  --color-warning: #FFB020; /* ○ Price changed, stale data, limited stock. */
+  --color-error: #FF6B3D; /* ◇ Failures. Orange-red, kept visibly apart from the brand pink-red; always with an icon. */
+  --color-info: #5AA9FF; /* ○ Neutral system information, tips. */
+  --color-primary-hover: #D1003A;
+
+  /* content overlays (theme-independent) */
+  --scrim-bottom: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,.35) 45%, rgba(0,0,0,.85) 100%);
+  --scrim-top: linear-gradient(180deg, rgba(0,0,0,.55) 0%, rgba(0,0,0,0) 100%);
+  --scrim-full: rgba(0,0,0,.48);
+  --glass: rgba(22,22,27,.56);
+  --glass-light: rgba(255,255,255,.16);
+  --video-control: rgba(255,255,255,.92);
+  --video-track: rgba(255,255,255,.32);
+  --media-ground: #000000;
+  --signal-glow: rgba(255,0,73,.35);
+
+  /* type */
+  --font-display: 'Instrument Serif', 'Times New Roman', Georgia, serif;
+  --font-sans: Inter, 'Helvetica Neue', Arial, sans-serif;
+  --type-display-xl-size: 56px; --type-display-xl-weight: 400; --type-display-xl-line: 1.0; --type-display-xl-tracking: -0.01em;
+  --type-display-size: 40px; --type-display-weight: 400; --type-display-line: 1.05; --type-display-tracking: -0.005em;
+  --type-headline-media-size: 26px; --type-headline-media-weight: 700; --type-headline-media-line: 1.15; --type-headline-media-tracking: -0.02em;
+  --type-h1-size: 30px; --type-h1-weight: 700; --type-h1-line: 1.15; --type-h1-tracking: -0.02em;
+  --type-h2-size: 22px; --type-h2-weight: 700; --type-h2-line: 1.2; --type-h2-tracking: -0.015em;
+  --type-h3-size: 17px; --type-h3-weight: 600; --type-h3-line: 1.3; --type-h3-tracking: -0.01em;
+  --type-body-l-size: 17px; --type-body-l-weight: 400; --type-body-l-line: 1.5; --type-body-l-tracking: 0.0em;
+  --type-body-size: 15px; --type-body-weight: 400; --type-body-line: 1.5; --type-body-tracking: 0.0em;
+  --type-body-s-size: 13px; --type-body-s-weight: 400; --type-body-s-line: 1.45; --type-body-s-tracking: 0.0em;
+  --type-caption-size: 12px; --type-caption-weight: 500; --type-caption-line: 1.35; --type-caption-tracking: 0.0em;
+  --type-label-size: 11px; --type-label-weight: 600; --type-label-line: 1.2; --type-label-tracking: 0.08em;
+  --type-button-size: 15px; --type-button-weight: 600; --type-button-line: 1.0; --type-button-tracking: -0.005em;
+  --type-metadata-size: 12px; --type-metadata-weight: 500; --type-metadata-line: 1.3; --type-metadata-tracking: 0.01em;
+
+  /* space (4px base) */
+  --space-0: 0px; --space-1: 4px; --space-2: 8px; --space-3: 12px; --space-4: 16px; --space-5: 20px; --space-6: 24px; --space-7: 32px; --space-8: 40px; --space-9: 48px; --space-10: 64px; --space-11: 80px; --space-12: 96px;
+  --screen-margin: 16px; --gutter: 12px; --section-gap: 32px; --content-max: 1280px;
+
+  /* radius */
+  --radius-none: 0px; --radius-xs: 4px; --radius-s: 8px; --radius-m: 12px; --radius-l: 16px; --radius-xl: 24px; --radius-2xl: 32px; --radius-pill: 999px;
+
+  /* elevation */
+  --shadow-0: none;
+  --shadow-1: 0 1px 2px rgba(12,12,16,.06), 0 1px 1px rgba(12,12,16,.04);
+  --shadow-2: 0 8px 24px rgba(12,12,16,.10);
+  --shadow-3: 0 24px 48px rgba(12,12,16,.18);
+  --shadow-signal: 0 8px 24px rgba(255,0,73,.35);
+
+  /* borders */
+  --border-hairline: 1px solid var(--color-divider);
+  --border-default: 1px solid var(--color-border);
+  --border-strong: 1.5px solid var(--color-text-primary);
+  --border-focus: 2px solid var(--color-primary);
+  --border-media: 1px solid rgba(255,255,255,.08);
+
+  /* motion */
+  --motion-duration-instant: 100ms;
+  --motion-duration-fast: 160ms;
+  --motion-duration-base: 240ms;
+  --motion-duration-slow: 360ms;
+  --motion-duration-story: 5000ms;
+  --motion-ease-standard: cubic-bezier(.2,0,0,1);
+  --motion-ease-emphasized: cubic-bezier(.3,0,0,1);
+  --motion-ease-exit: cubic-bezier(.4,0,1,1);
+  --motion-ease-spring: cubic-bezier(.34,1.56,.64,1);
+  --motion-ease-linear: linear;
+}
+
+[data-theme="light"] {
+  color-scheme: light;
+  --color-primary-subtle: #FFE8EE;
+  --color-iris: #7B4FA6;
+  --color-iris-strong: #5E3786;
+  --color-iris-subtle: #F5EDFB;
+  --color-background: #FFFFFF;
+  --color-surface: #F6F5F8;
+  --color-surface-elevated: #FFFFFF;
+  --color-surface-muted: #ECEBF0;
+  --color-border: #E2E0E8;
+  --color-divider: #EEEDF2;
+  --color-text-primary: #0C0C10;
+  --color-text-secondary: #55535E;
+  --color-text-tertiary: #6B6975;
+  --color-success: #0A7F4A;
+  --color-warning: #9A5B00;
+  --color-error: #C2381A;
+  --color-info: #1F63C7;
+  --color-primary-hover: #D1003A;
+}
+
+@media (min-width: 600px) { :root { --screen-margin: 24px; --gutter: 16px; --section-gap: 40px; } }
+@media (min-width: 1024px) { :root { --screen-margin: 32px; --gutter: 24px; --section-gap: 48px;
+  --type-display-xl-size: 72px; --type-display-size: 56px; --type-h1-size: 40px; --type-h2-size: 28px;
+  --type-headline-media-size: 32px; --type-body-l-size: 18px; } }
+@media (min-width: 1440px) { :root { --screen-margin: 48px; --content-max: 1360px; } }
+@media (prefers-reduced-motion: reduce) { :root { --motion-duration-fast: 0ms; --motion-duration-base: 0ms; --motion-duration-slow: 160ms; } }

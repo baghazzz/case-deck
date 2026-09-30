@@ -1,0 +1,22 @@
+{
+  "border-hairline": {
+    "$value": "1px solid var(--color-divider)",
+    "usage": "List separators"
+  },
+  "border-default": {
+    "$value": "1px solid var(--color-border)",
+    "usage": "Inputs, outlined buttons, cards without media"
+  },
+  "border-strong": {
+    "$value": "1.5px solid var(--color-text-primary)",
+    "usage": "Secondary button on light theme, selected option"
+  },
+  "border-focus": {
+    "$value": "2px solid var(--color-primary)",
+    "usage": "Focus ring, drawn with 2px offset"
+  },
+  "border-media": {
+    "$value": "1px solid rgba(255,255,255,.08)",
+    "usage": "Inner stroke on media so dark images hold their edge on dark ground"
+  }
+}

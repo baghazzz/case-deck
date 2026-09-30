@@ -1,0 +1,109 @@
+{
+  "duration": {
+    "instant": "100ms",
+    "fast": "160ms",
+    "base": "240ms",
+    "slow": "360ms",
+    "story": "5000ms"
+  },
+  "easing": {
+    "standard": "cubic-bezier(.2,0,0,1)",
+    "emphasized": "cubic-bezier(.3,0,0,1)",
+    "exit": "cubic-bezier(.4,0,1,1)",
+    "spring": "cubic-bezier(.34,1.56,.64,1)",
+    "linear": "linear"
+  },
+  "interactions": {
+    "button-press": {
+      "duration": "100ms",
+      "easing": "standard",
+      "behaviour": "Scale to .97, background to pressed token.",
+      "confidence": "○ Reconstruction"
+    },
+    "chip-select": {
+      "duration": "160ms",
+      "easing": "standard",
+      "behaviour": "Fill cross-fades; check icon slides in 4px.",
+      "confidence": "○ Reconstruction"
+    },
+    "card-hover": {
+      "duration": "240ms",
+      "easing": "standard",
+      "behaviour": "translateY(-2px), shadow-2 (light) or surface lift (dark); media scales 1.03.",
+      "confidence": "○ Reconstruction"
+    },
+    "card-press": {
+      "duration": "100ms",
+      "easing": "standard",
+      "behaviour": "Scale to .98.",
+      "confidence": "○ Reconstruction"
+    },
+    "like-pop": {
+      "duration": "360ms",
+      "easing": "spring",
+      "behaviour": "Heart scales 1 → 1.25 → 1 and fills primary.",
+      "confidence": "◇ Original interpretation"
+    },
+    "sheet-enter": {
+      "duration": "360ms",
+      "easing": "emphasized",
+      "behaviour": "Slides up from bottom, scrim fades to .48.",
+      "confidence": "◐ Strong inference"
+    },
+    "sheet-exit": {
+      "duration": "240ms",
+      "easing": "exit",
+      "behaviour": "Slides down; follows the finger if dragged.",
+      "confidence": "◐ Strong inference"
+    },
+    "modal": {
+      "duration": "240ms",
+      "easing": "emphasized",
+      "behaviour": "Fade + scale .96 → 1.",
+      "confidence": "○ Reconstruction"
+    },
+    "carousel-snap": {
+      "duration": "360ms",
+      "easing": "emphasized",
+      "behaviour": "Snap to nearest card after release; momentum preserved.",
+      "confidence": "◐ Strong inference"
+    },
+    "story-advance": {
+      "duration": "5000ms",
+      "easing": "linear",
+      "behaviour": "Progress bar fills; next story cross-fades 240ms.",
+      "confidence": "◐ Strong inference"
+    },
+    "page-push": {
+      "duration": "360ms",
+      "easing": "emphasized",
+      "behaviour": "New page in from right 24px + fade; old page dims.",
+      "confidence": "○ Reconstruction"
+    },
+    "shared-media": {
+      "duration": "360ms",
+      "easing": "emphasized",
+      "behaviour": "Card media expands into the detail hero (shared element).",
+      "confidence": "◇ Original interpretation"
+    },
+    "skeleton-shimmer": {
+      "duration": "1400ms",
+      "easing": "linear",
+      "behaviour": "Gradient sweep left to right, loops until data arrives.",
+      "confidence": "○ Reconstruction"
+    },
+    "live-pulse": {
+      "duration": "1600ms",
+      "easing": "standard",
+      "behaviour": "Live dot ring scales 1 → 2.2, opacity .6 → 0, loops.",
+      "confidence": "◇ Original interpretation"
+    },
+    "toast": {
+      "duration": "240ms",
+      "easing": "emphasized",
+      "behaviour": "Rises 16px + fade; auto-dismiss after 4s.",
+      "confidence": "○ Reconstruction"
+    }
+  },
+  "reducedMotion": "Under prefers-reduced-motion: transforms become 0ms cross-fades of 160ms; story auto-advance pauses; live-pulse stops."
+}

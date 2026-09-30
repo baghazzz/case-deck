@@ -1,0 +1,71 @@
+{
+  "$description": "4px base unit. \u25cb Reconstruction of a 4/8 rhythm.",
+  "base": "4px",
+  "scale": {
+    "space-0": {
+      "$value": "0px",
+      "usage": ""
+    },
+    "space-1": {
+      "$value": "4px",
+      "usage": "icon-to-label gap, dot separators"
+    },
+    "space-2": {
+      "$value": "8px",
+      "usage": "chip padding-y, inline gaps"
+    },
+    "space-3": {
+      "$value": "12px",
+      "usage": "card inner gap, chip padding-x"
+    },
+    "space-4": {
+      "$value": "16px",
+      "usage": "screen margin (mobile), card padding"
+    },
+    "space-5": {
+      "$value": "20px",
+      "usage": "card padding (large cards)"
+    },
+    "space-6": {
+      "$value": "24px",
+      "usage": "gap between modules inside a section"
+    },
+    "space-7": {
+      "$value": "32px",
+      "usage": "section spacing (mobile)"
+    },
+    "space-8": {
+      "$value": "40px",
+      "usage": "section spacing (tablet)"
+    },
+    "space-9": {
+      "$value": "48px",
+      "usage": "section spacing (desktop)"
+    },
+    "space-10": {
+      "$value": "64px",
+      "usage": "hero padding (desktop)"
+    },
+    "space-11": {
+      "$value": "80px",
+      "usage": "page top/bottom (desktop)"
+    },
+    "space-12": {
+      "$value": "96px",
+      "usage": "deck and marketing sections"
+    }
+  },
+  "layout": {
+    "screen-margin-mobile": "16px",
+    "screen-margin-tablet": "24px",
+    "screen-margin-desktop": "32px",
+    "gutter-mobile": "12px",
+    "gutter-tablet": "16px",
+    "gutter-desktop": "24px",
+    "card-padding": "16px",
+    "card-padding-large": "20px",
+    "section-gap-mobile": "32px",
+    "section-gap-desktop": "48px",
+    "rail-card-gap": "12px"
+  }
+}

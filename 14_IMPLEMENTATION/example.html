@@ -1,0 +1,242 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wake · example page</title>
+<link rel="stylesheet" href="tokens.css">
+<link rel="stylesheet" href="components.css">
+<style>
+  /* page-level layout only; all visual values come from tokens.css / components.css */
+  main { padding-bottom: 120px; }
+  .hero-grid { display: grid; gap: var(--space-6); }
+  @media (min-width: 1024px) { .hero-grid { grid-template-columns: 8fr 4fr; align-items: start; } }
+  .products { display: grid; gap: var(--space-6) var(--gutter); grid-template-columns: repeat(2, 1fr); }
+  @media (min-width: 600px) { .products { grid-template-columns: repeat(4, 1fr); } }
+  .two-col { display: grid; gap: var(--space-6); }
+  @media (min-width: 1024px) { .two-col { grid-template-columns: 1fr 1fr; } }
+  .assist { display: grid; gap: var(--space-4); }
+  @media (min-width: 600px) { .assist { grid-template-columns: 1fr 1fr; } }
+  footer { border-top: var(--border-hairline); margin-top: var(--space-10); padding: var(--space-8) 0 var(--space-12); color: var(--color-text-tertiary); }
+  .theme-toggle { margin-left: auto; }
+</style>
+</head>
+<body>
+<svg xmlns="http://www.w3.org/2000/svg" style="position:absolute;width:0;height:0" aria-hidden="true">
+<symbol id="i-alert" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12 3.8 21 19.5H3z"/>  <path d="M12 10v4.5"/>  <circle cx="12" cy="17" r="1.6" fill="currentColor" stroke="none"/></symbol>
+<symbol id="i-arrow" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M7 17 17 7"/>  <path d="M8.5 7H17v8.5"/></symbol>
+<symbol id="i-back" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M19.5 12h-15"/>  <path d="M10.5 6l-6 6 6 6"/></symbol>
+<symbol id="i-baggage" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M7 7.5h10a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-9a2 2 0 0 1 2-2z"/>  <path d="M9.5 7.5V5a1 1 0 0 1 1-1h3a1 1 0 0 1 1 1v2.5"/>  <path d="M9.5 11.5v5"/>  <path d="M14.5 11.5v5"/></symbol>
+<symbol id="i-bookmark" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M7 3.5h10a1.5 1.5 0 0 1 1.5 1.5v15.5L12 16l-6.5 4.5V5A1.5 1.5 0 0 1 7 3.5z"/></symbol>
+<symbol id="i-calendar" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M5.5 5h13a2 2 0 0 1 2 2v11.5a2 2 0 0 1-2 2h-13a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2z"/>  <path d="M3.5 10h17"/>  <path d="M8 3v4"/>  <path d="M16 3v4"/></symbol>
+<symbol id="i-camera" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M4.5 7.5h3l1.5-2h6l1.5 2h3a1 1 0 0 1 1 1v10a1 1 0 0 1-1 1h-15a1 1 0 0 1-1-1v-10a1 1 0 0 1 1-1z"/>  <path d="M15.5 13a3.5 3.5 0 1 1-7 0 3.5 3.5 0 0 1 7 0z"/></symbol>
+<symbol id="i-chat" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M4.5 6.5a2 2 0 0 1 2-2h11a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2h-6.5l-4.5 3.5v-3.5h0a2 2 0 0 1-2-2z"/></symbol>
+<symbol id="i-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M5 12.5 10 17.5 19.5 7"/></symbol>
+<symbol id="i-chevron" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M9.5 5.5 16 12l-6.5 6.5"/></symbol>
+<symbol id="i-chevron-down" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M5.5 9.5 12 16l6.5-6.5"/></symbol>
+<symbol id="i-clock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M20.5 12a8.5 8.5 0 1 1-17 0 8.5 8.5 0 0 1 17 0z"/>  <path d="M12 7.5V12l3 2"/></symbol>
+<symbol id="i-close" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M6 6l12 12"/>  <path d="M18 6 6 18"/></symbol>
+<symbol id="i-compare" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M7 4.5 3.5 8 7 11.5"/>  <path d="M3.5 8h13"/>  <path d="M17 12.5l3.5 3.5-3.5 3.5"/>  <path d="M20.5 16h-13"/></symbol>
+<symbol id="i-entertainment" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M6.5 4.5h11a3 3 0 0 1 3 3v9a3 3 0 0 1-3 3h-11a3 3 0 0 1-3-3v-9a3 3 0 0 1 3-3z"/>  <path d="M10.2 9.2v5.6l4.6-2.8z"/></symbol>
+<symbol id="i-external" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M13.5 4.5h6v6"/>  <path d="M19.5 4.5l-8 8"/>  <path d="M17.5 13.5v5a1 1 0 0 1-1 1h-11a1 1 0 0 1-1-1v-11a1 1 0 0 1 1-1h5"/></symbol>
+<symbol id="i-filter" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M4 7h8.5"/>  <path d="M17.5 7H20"/>  <path d="M4 17h2.5"/>  <path d="M11.5 17H20"/>  <path d="M17 7a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"/>  <path d="M11 17a2 2 0 1 1-4 0 2 2 0 0 1 4 0z"/></symbol>
+<symbol id="i-forward" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M4.5 12h15"/>  <path d="M13.5 6l6 6-6 6"/></symbol>
+<symbol id="i-globe" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M20.5 12a8.5 8.5 0 1 1-17 0 8.5 8.5 0 0 1 17 0z"/>  <path d="M3.5 12h17"/>  <path d="M12 3.5c2.3 2.4 3.5 5.2 3.5 8.5s-1.2 6.1-3.5 8.5c-2.3-2.4-3.5-5.2-3.5-8.5s1.2-6.1 3.5-8.5z"/></symbol>
+<symbol id="i-grid" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M4.5 4.5h6v6h-6z"/>  <path d="M13.5 4.5h6v6h-6z"/>  <path d="M4.5 13.5h6v6h-6z"/>  <path d="M13.5 13.5h6v6h-6z"/></symbol>
+<symbol id="i-home" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M3.5 10.5 12 3.8l8.5 6.7V19a1.5 1.5 0 0 1-1.5 1.5h-4.5v-6h-5v6H5A1.5 1.5 0 0 1 3.5 19z"/></symbol>
+<symbol id="i-hotel" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M3.5 19.5v-13"/>  <path d="M3.5 15.5h17v4"/>  <path d="M20.5 15.5v-3a2.5 2.5 0 0 0-2.5-2.5h-7.5v5.5"/>  <path d="M8.8 11.8a1.8 1.8 0 1 1-3.6 0 1.8 1.8 0 0 1 3.6 0z"/></symbol>
+<symbol id="i-info" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M20.5 12a8.5 8.5 0 1 1-17 0 8.5 8.5 0 0 1 17 0z"/>  <path d="M12 11v5.5"/>  <circle cx="12" cy="7.9" r="1.6" fill="currentColor" stroke="none"/></symbol>
+<symbol id="i-like" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12 20.2s-7.8-4.7-7.8-10.3A4.4 4.4 0 0 1 12 7.2a4.4 4.4 0 0 1 7.8 2.7c0 5.6-7.8 10.3-7.8 10.3z"/></symbol>
+<symbol id="i-live" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <circle cx="12" cy="12" r="2.2" fill="currentColor" stroke="none"/>  <path d="M8 8a5.7 5.7 0 0 0 0 8"/>  <path d="M16 8a5.7 5.7 0 0 1 0 8"/>  <path d="M5.2 5.2a9.6 9.6 0 0 0 0 13.6"/>  <path d="M18.8 5.2a9.6 9.6 0 0 1 0 13.6"/></symbol>
+<symbol id="i-location" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12 21s-6.5-5.8-6.5-11a6.5 6.5 0 0 1 13 0c0 5.2-6.5 11-6.5 11z"/>  <path d="M14.3 10a2.3 2.3 0 1 1-4.6 0 2.3 2.3 0 0 1 4.6 0z"/></symbol>
+<symbol id="i-lock" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M7 10.5h10a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2v-6a2 2 0 0 1 2-2z"/>  <path d="M8 10.5V8a4 4 0 0 1 8 0v2.5"/></symbol>
+<symbol id="i-meal" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M7 3.5v17"/>  <path d="M4.8 3.5v4.8a2.2 2.2 0 0 0 4.4 0V3.5"/>  <path d="M16.5 20.5v-17c-2 1-3 3.2-3 6v4.5h3"/></symbol>
+<symbol id="i-menu" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M4 7h16"/>  <path d="M4 12h16"/>  <path d="M4 17h16"/></symbol>
+<symbol id="i-mic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12 3.5a3 3 0 0 1 3 3v5a3 3 0 0 1-6 0v-5a3 3 0 0 1 3-3z"/>  <path d="M5.5 11.5a6.5 6.5 0 0 0 13 0"/>  <path d="M12 18v2.5"/></symbol>
+<symbol id="i-more" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <circle cx="6" cy="12" r="1.6" fill="currentColor" stroke="none"/>  <circle cx="12" cy="12" r="1.6" fill="currentColor" stroke="none"/>  <circle cx="18" cy="12" r="1.6" fill="currentColor" stroke="none"/></symbol>
+<symbol id="i-news" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M5 4.5h10a1.5 1.5 0 0 1 1.5 1.5v14.5H6A2.5 2.5 0 0 1 3.5 18V6A1.5 1.5 0 0 1 5 4.5z"/>  <path d="M16.5 9h3a1 1 0 0 1 1 1v8a2.5 2.5 0 0 1-5 0"/>  <path d="M7 8.5h6"/>  <path d="M7 12h6"/>  <path d="M7 15.5h4"/></symbol>
+<symbol id="i-notification" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M6 16.5V11a6 6 0 0 1 12 0v5.5l1.5 2h-15z"/>  <path d="M10 20.5a2.2 2.2 0 0 0 4 0"/></symbol>
+<symbol id="i-passport" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M7 3h10a1.5 1.5 0 0 1 1.5 1.5v15A1.5 1.5 0 0 1 17 21H7a1.5 1.5 0 0 1-1.5-1.5v-15A1.5 1.5 0 0 1 7 3z"/>  <path d="M15 10.5a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/>  <path d="M9.5 16.5h5"/></symbol>
+<symbol id="i-pause" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M8.5 4.5v15"/>  <path d="M15.5 4.5v15"/></symbol>
+<symbol id="i-personalization" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M11 3.5c.6 4.3 2.2 5.9 6.5 6.5-4.3.6-5.9 2.2-6.5 6.5-.6-4.3-2.2-5.9-6.5-6.5 4.3-.6 5.9-2.2 6.5-6.5z"/>  <path d="M18.5 15.5c.2 1.3.7 1.8 2 2-1.3.2-1.8.7-2 2-.2-1.3-.7-1.8-2-2 1.3-.2 1.8-.7 2-2z"/></symbol>
+<symbol id="i-plane" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12 2.8c.9 0 1.5.9 1.5 2v5.1l7 4.1v2l-7-2.1v4.1l2.2 1.6v1.6L12 20.3l-3.7.9v-1.6l2.2-1.6v-4.1l-7 2.1v-2l7-4.1V4.8c0-1.1.6-2 1.5-2z"/></symbol>
+<symbol id="i-play" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M7.5 5v14a.9.9 0 0 0 1.4.8l10.8-7a.9.9 0 0 0 0-1.6L8.9 4.2A.9.9 0 0 0 7.5 5z"/></symbol>
+<symbol id="i-plus" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12 5v14"/>  <path d="M5 12h14"/></symbol>
+<symbol id="i-profile" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M16 8a4 4 0 1 1-8 0 4 4 0 0 1 8 0z"/>  <path d="M4.5 20.5c.8-3.9 3.9-6 7.5-6s6.7 2.1 7.5 6"/></symbol>
+<symbol id="i-refresh" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M19.5 12a7.5 7.5 0 1 1-2.2-5.3"/>  <path d="M19.5 4.5v4h-4"/></symbol>
+<symbol id="i-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M17 10.5a6.5 6.5 0 1 1-13 0 6.5 6.5 0 0 1 13 0z"/>  <path d="M15.3 15.3 20.5 20.5"/></symbol>
+<symbol id="i-settings" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12.00 3.40L13.68 3.57L14.53 5.90L15.67 6.51L18.08 5.92L19.15 7.22L18.10 9.47L18.47 10.71L20.60 12.00L20.43 13.68L18.10 14.53L17.49 15.67L18.08 18.08L16.78 19.15L14.53 18.10L13.29 18.47L12.00 20.60L10.32 20.43L9.47 18.10L8.33 17.49L5.92 18.08L4.85 16.78L5.90 14.53L5.53 13.29L3.40 12.00L3.57 10.32L5.90 9.47L6.51 8.33L5.92 5.92L7.22 4.85L9.47 5.90L10.71 5.53Z"/>  <path d="M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/></symbol>
+<symbol id="i-share" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12 15V3.8"/>  <path d="M7.5 8.3 12 3.8l4.5 4.5"/>  <path d="M5 12.5V19a1.5 1.5 0 0 0 1.5 1.5h11A1.5 1.5 0 0 0 19 19v-6.5"/></symbol>
+<symbol id="i-shield-check" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12 3 19.5 6v5.5c0 4.6-3.2 8.2-7.5 9.5-4.3-1.3-7.5-4.9-7.5-9.5V6z"/>  <path d="M8.8 12.2l2.3 2.3 4.3-4.6"/></symbol>
+<symbol id="i-shopping" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M5.5 7.5h13l-.9 11.6a1.5 1.5 0 0 1-1.5 1.4H7.9a1.5 1.5 0 0 1-1.5-1.4z"/>  <path d="M9 10V6.5a3 3 0 0 1 6 0V10"/></symbol>
+<symbol id="i-star" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M12 3.8l2.5 5.2 5.7.8-4.1 4 1 5.7L12 16.8l-5.1 2.7 1-5.7-4.1-4 5.7-.8z"/></symbol>
+<symbol id="i-tag" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M3.5 12.2V4.5a1 1 0 0 1 1-1h7.7l8.3 8.3a1.4 1.4 0 0 1 0 2l-6.7 6.7a1.4 1.4 0 0 1-2 0z"/>  <circle cx="8" cy="8" r="1.6" fill="currentColor" stroke="none"/></symbol>
+<symbol id="i-trending" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M3.5 17 9.5 11l4 4 7-7.5"/>  <path d="M15 7.5h5.5V13"/></symbol>
+<symbol id="i-weather" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round">    <path d="M15.8 12a3.8 3.8 0 1 1-7.6 0 3.8 3.8 0 0 1 7.6 0z"/>  <path d="M12 3.5v1.8"/>  <path d="M12 18.7v1.8"/>  <path d="M3.5 12h1.8"/>  <path d="M18.7 12h1.8"/>  <path d="M6 6l1.3 1.3"/>  <path d="M16.7 16.7 18 18"/>  <path d="M6 18l1.3-1.3"/>  <path d="M16.7 7.3 18 6"/></symbol>
+</svg>
+
+<header class="topbar"><div class="container row">
+  <a class="wordmark" href="#" aria-label="wake home">wake</a>
+  <nav class="tabs" aria-label="Topics" role="tablist" style="margin-left:var(--space-6)">
+    <button class="tab" role="tab" aria-selected="true">For you</button><button class="tab" role="tab">Travel</button>
+    <button class="tab" role="tab">Style</button><button class="tab" role="tab">News</button><button class="tab" role="tab">Cricket</button>
+  </nav>
+  <button class="btn btn--tertiary btn--s theme-toggle" onclick="document.documentElement.dataset.theme = document.documentElement.dataset.theme === 'light' ? 'dark' : 'light'">Theme</button>
+  <button class="icon-btn icon-btn--plain" aria-label="Updates"><svg class="icon icon--20" aria-hidden="true"><use href="#i-notification"/></svg></button>
+</div></header>
+
+<main class="container">
+  <section class="section">
+    <p class="kicker t-tertiary">Wednesday 30 September · 31° Delhi</p>
+    <h1 class="t-display" style="margin:var(--space-2) 0 var(--space-6)">Good morning, Aria</h1>
+    <div class="hero-grid">
+      <article class="card card--hero">
+        <img src="../11_SVG_ASSETS/illustrations/lagoon.svg" alt="Beach after the monsoon">
+        <div class="scrim-b"></div>
+        <div class="card__top"><span class="badge badge--for-you"><svg class="icon icon--16" aria-hidden="true"><use href="#i-personalization"/></svg>For you</span>
+          <button class="icon-btn icon-btn--glass" aria-label="Save"><svg class="icon icon--20" aria-hidden="true"><use href="#i-bookmark"/></svg></button></div>
+        <div class="card__body">
+          <p class="kicker">Travel · For you</p>
+          <h2 class="t-hook clamp-2" style="margin:var(--space-2) 0 0">Monsoon's over. Six beaches worth the flight</h2>
+          <p class="meta"><span>Wake Travel</span><span>4 min</span></p>
+          <div class="row"><a class="btn btn--primary" href="#">Plan a trip <svg class="icon" aria-hidden="true"><use href="#i-arrow"/></svg></a>
+            <button class="icon-btn icon-btn--glass" aria-label="Share" style="margin-left:auto"><svg class="icon icon--20" aria-hidden="true"><use href="#i-share"/></svg></button></div>
+        </div>
+      </article>
+      <aside>
+        <div class="section-header"><h2 class="t-h2">Trending near you</h2></div>
+        <div class="stack">
+        <a class="card card--compact has-rank" href="#">
+          <span class="rank">1</span><div class="media"><img src="../11_SVG_ASSETS/illustrations/stadium.svg" alt=""></div>
+          <div><div class="card__title clamp-2">Final over: chase needs 12 off 6</div><div class="meta"><span>Cricket</span><span>Live</span><span>2.1M reading</span></div></div>
+        </a>
+        <a class="card card--compact has-rank" href="#">
+          <span class="rank">2</span><div class="media"><img src="../11_SVG_ASSETS/illustrations/news.svg" alt=""></div>
+          <div><div class="card__title clamp-2">Rail budget adds 40 new routes for the festive season</div><div class="meta"><span>The Daily Ledger</span><span>National</span><span>18 min</span></div></div>
+        </a>
+        <a class="card card--compact has-rank" href="#">
+          <span class="rank">3</span><div class="media"><img src="../11_SVG_ASSETS/illustrations/concert.svg" alt=""></div>
+          <div><div class="card__title clamp-2">Monsoon fest lineup drops tonight</div><div class="meta"><span>Music</span><span>48k saved</span></div></div>
+        </a>
+        <a class="card card--compact has-rank" href="#">
+          <span class="rank">4</span><div class="media"><img src="../11_SVG_ASSETS/illustrations/food.svg" alt=""></div>
+          <div><div class="card__title clamp-2">The ₹99 thali everyone is queueing for</div><div class="meta"><span>Food</span><span>Pune</span><span>8 min</span></div></div>
+        </a>
+        </div>
+      </aside>
+    </div>
+  </section>
+
+  <section class="section" aria-labelledby="reco">
+    <div class="section-header"><div><h2 class="t-h2" id="reco"><svg class="icon icon--20 t-iris" aria-hidden="true"><use href="#i-personalization"/></svg> Because you saved Goa</h2>
+      <span class="why">Tuned to beaches · monsoon · under ₹8k</span></div><a href="#">See all</a></div>
+    <div class="rail">
+        <a class="card card--reco" href="#">
+          <img src="../11_SVG_ASSETS/illustrations/beach-city.svg" alt="">
+          <span class="reason"><svg class="icon icon--16" aria-hidden="true"><use href="#i-personalization"/></svg>Because you saved Goa</span>
+          <div class="card__body"><div class="card__title clamp-3">Sunset rooftops of Panjim</div><div class="meta"><span>14 spots</span><span>open now</span></div></div>
+        </a>
+        <a class="card card--reco" href="#">
+          <img src="../11_SVG_ASSETS/illustrations/desert.svg" alt="">
+          <span class="reason"><svg class="icon icon--16" aria-hidden="true"><use href="#i-personalization"/></svg>Because you saved Jaisalmer</span>
+          <div class="card__body"><div class="card__title clamp-3">Desert camps that open after the rains</div><div class="meta"><span>12 stays</span><span>from ₹3,800</span></div></div>
+        </a>
+        <a class="card card--reco" href="#">
+          <img src="../11_SVG_ASSETS/illustrations/mountain.svg" alt="">
+          <span class="reason"><svg class="icon icon--16" aria-hidden="true"><use href="#i-personalization"/></svg>Similar to Sikkim</span>
+          <div class="card__body"><div class="card__title clamp-3">Hill towns after the rain</div><div class="meta"><span>22 guides</span><span>3–5 days</span></div></div>
+        </a>
+        <a class="card card--reco" href="#">
+          <img src="../11_SVG_ASSETS/illustrations/temple.svg" alt="">
+          <span class="reason"><svg class="icon icon--16" aria-hidden="true"><use href="#i-personalization"/></svg>Popular with people like you</span>
+          <div class="card__body"><div class="card__title clamp-3">Heritage walks in Old Goa</div><div class="meta"><span>9 walks</span><span>this weekend</span></div></div>
+        </a>
+        <a class="card card--reco" href="#">
+          <img src="../11_SVG_ASSETS/illustrations/food.svg" alt="">
+          <span class="reason"><svg class="icon icon--16" aria-hidden="true"><use href="#i-personalization"/></svg>For Saturday's forecast</span>
+          <div class="card__body"><div class="card__title clamp-3">The Goan thali trail</div><div class="meta"><span>6 kitchens</span><span>under ₹600</span></div></div>
+        </a>
+    </div>
+    <div class="tooltip-why" style="margin-top:var(--space-4);max-width:520px"><strong>Why you're seeing this</strong>
+      You saved two Goa stories this week and read about monsoon travel. <a class="btn btn--text" href="#">Tune</a></div>
+  </section>
+
+  <section class="section" aria-labelledby="shop">
+    <div class="section-header"><h2 class="t-h2" id="shop">Shop the look</h2>
+      <div class="segmented"><button aria-pressed="true">Looks</button><button aria-pressed="false">Products</button></div></div>
+    <div class="chip-row" style="margin-bottom:var(--space-5)"><button class="chip chip--selected">All</button><button class="chip">Coats</button>
+      <button class="chip">Shoes</button><button class="chip chip--iris"><svg class="icon icon--16" aria-hidden="true"><use href="#i-personalization"/></svg>Your street style</button><button class="chip">Under ₹5k</button></div>
+    <div class="products">
+        <a class="card card--commerce" href="#">
+          <div class="media"><img src="../11_SVG_ASSETS/illustrations/sneaker.svg" alt="Court low sneaker in signal red"><span class="badge badge--fresh">Price drop</span>
+            <button class="save" aria-pressed="true" aria-label="Save"><svg class="icon icon--20" aria-hidden="true"><use href="#i-like"/></svg></button></div>
+          <div class="brand">Northline</div><div class="name clamp-2">Court low sneaker in signal red</div>
+          <div class="price"><strong>₹4,299</strong><s>₹5,999</s><span class="off">28% off</span></div>
+          <div class="fresh">Price checked 9:41</div>
+        </a>
+        <a class="card card--commerce" href="#">
+          <div class="media"><img src="../11_SVG_ASSETS/illustrations/bag.svg" alt="Canvas weekender tote">
+            <button class="save" aria-pressed="false" aria-label="Save"><svg class="icon icon--20" aria-hidden="true"><use href="#i-like"/></svg></button></div>
+          <div class="brand">Loom &amp; Co</div><div class="name clamp-2">Canvas weekender tote</div>
+          <div class="price"><strong>₹2,190</strong></div>
+          <div class="fresh">Price checked 9:41</div>
+        </a>
+        <a class="card card--commerce" href="#">
+          <div class="media"><img src="../11_SVG_ASSETS/illustrations/watch.svg" alt="Field watch, 38mm"><span class="badge badge--warning">Only 3 left</span>
+            <button class="save" aria-pressed="false" aria-label="Save"><svg class="icon icon--20" aria-hidden="true"><use href="#i-like"/></svg></button></div>
+          <div class="brand">Arc</div><div class="name clamp-2">Field watch, 38mm</div>
+          <div class="price"><strong>₹8,450</strong><s>₹9,990</s><span class="off">15% off</span></div>
+          <div class="fresh">Price checked 9:41</div>
+        </a>
+        <a class="card card--commerce" href="#">
+          <div class="media"><img src="../11_SVG_ASSETS/illustrations/lamp.svg" alt="Lilac desk lamp"><span class="badge badge--new">New</span>
+            <button class="save" aria-pressed="false" aria-label="Save"><svg class="icon icon--20" aria-hidden="true"><use href="#i-like"/></svg></button></div>
+          <div class="brand">Halo</div><div class="name clamp-2">Lilac desk lamp</div>
+          <div class="price"><strong>₹1,850</strong></div>
+          <div class="fresh">Price checked 9:41</div>
+        </a>
+    </div>
+  </section>
+
+  <section class="section two-col" aria-labelledby="news">
+    <a class="card card--editorial" href="#">
+      <div class="media ratio-3x2"><img src="../11_SVG_ASSETS/illustrations/temple.svg" alt="Varanasi temple at dawn"></div>
+      <p class="kicker">The long read</p>
+      <h2 class="card__title" id="news">Forty-eight hours in a city that wakes before you do</h2>
+      <p class="clamp-3">A slow itinerary for Varanasi: dawn on the ghats, lunch in the lanes, and the ceremony worth staying up for.</p>
+      <p class="meta"><span>Meera Rao</span><span>9 min read</span></p>
+    </a>
+    <div>
+      <div class="section-header"><h2 class="t-h2">Ask, grounded</h2><span class="badge badge--sponsored">Demo</span></div>
+      <div class="assist">
+        <div class="fare">
+          <div class="row"><span class="t-caption t-tertiary">Skyline Air · SK 2134</span><span class="badge badge--fresh" style="margin-left:auto">Live</span></div>
+          <div class="fare__route"><div><div class="fare__time">06:10</div><div class="t-caption t-secondary">DEL</div></div><div class="fare__line"></div>
+            <div style="text-align:right"><div class="fare__time">08:45</div><div class="t-caption t-secondary">GOI</div></div></div>
+          <div class="fare__price">₹5,842</div><div class="fresh">Live fare · checked 9:41 · incl. taxes and fees</div>
+          <a class="btn btn--primary btn--block" style="margin-top:var(--space-4)" href="#">Book at ₹5,842</a>
+        </div>
+        <div class="cited">
+          <span class="badge badge--verified"><svg class="icon icon--16" aria-hidden="true"><use href="#i-shield-check"/></svg>Cited answer</span>
+          <p>Indian passport holders can enter Thailand visa-free for tourism for a limited stay. Check stay length and conditions on the official page before you fly.</p>
+          <div class="cited__source"><svg class="icon icon--20" aria-hidden="true"><use href="#i-passport"/></svg><div><strong>Royal Thai Embassy, New Delhi</strong><br><span class="t-tertiary">Last verified 29 Sep 2026</span></div></div>
+        </div>
+      </div>
+      <div style="margin-top:var(--space-4)"><span class="toast"><svg class="icon icon--20" aria-hidden="true"><use href="#i-check"/></svg> Saved to Goa trip <button>Undo</button></span></div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="row" style="gap:var(--space-6);flex-wrap:wrap">
+      <span class="wordmark" style="color:var(--color-text-primary)">wake</span>
+      <span class="t-caption">Wake · A Glance-inspired design system · v1.0. Demo content; placeholder art is original. Not affiliated with Glance.</span>
+    </div>
+  </footer>
+</main>
+
+<nav class="bottom-nav" aria-label="Primary">
+  <a href="#" aria-current="page"><svg class="icon" aria-hidden="true"><use href="#i-home"/></svg>For you</a><a href="#"><svg class="icon" aria-hidden="true"><use href="#i-grid"/></svg>Discover</a>
+  <a href="#" class="is-assistant"><svg class="icon" aria-hidden="true"><use href="#i-personalization"/></svg>Ask</a><a href="#"><svg class="icon" aria-hidden="true"><use href="#i-bookmark"/></svg>Saved</a><a href="#"><svg class="icon" aria-hidden="true"><use href="#i-profile"/></svg>You</a>
+</nav>
+</body>
+</html>

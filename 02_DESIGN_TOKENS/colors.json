@@ -1,0 +1,832 @@
+{
+  "$description": "Wake colour tokens. Dark is the default theme; light mirrors every role.",
+  "source-note": "Brand hues #FF0049 and #DDBEF0 are observed via a public brand registry (Brandfetch). All other values are reconstructed approximations, not official Glance values.",
+  "dark": {
+    "primary": {
+      "$value": "#FF0049",
+      "$type": "color",
+      "hex": "#FF0049",
+      "rgb": "rgb(255, 0, 73)",
+      "hsl": "hsl(343, 100%, 50%)",
+      "usage": "Brand signal. Live dots, active indicators, icons, large display accents. Never body text on light.",
+      "contrast": {
+        "onBackground": 4.97,
+        "withWhite": 3.93,
+        "withBlack": 5.35,
+        "guidance": "AA text on background"
+      },
+      "confidence": "● Observed",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "primary-action": {
+      "$value": "#E6003F",
+      "$type": "color",
+      "hex": "#E6003F",
+      "rgb": "rgb(230, 0, 63)",
+      "hsl": "hsl(344, 100%, 45%)",
+      "usage": "Filled primary button with white label (passes 4.5:1).",
+      "contrast": {
+        "onBackground": 4.12,
+        "withWhite": 4.73,
+        "withBlack": 4.44,
+        "guidance": "Large text / icons / UI only on background"
+      },
+      "confidence": "◇ Original interpretation",
+      "note": "Original interpretation for this system."
+    },
+    "primary-dark": {
+      "$value": "#B80036",
+      "$type": "color",
+      "hex": "#B80036",
+      "rgb": "rgb(184, 0, 54)",
+      "hsl": "hsl(342, 100%, 36%)",
+      "usage": "Pressed state of primary-action; primary text on light surfaces.",
+      "contrast": {
+        "onBackground": 2.87,
+        "withWhite": 6.79,
+        "withBlack": 3.09,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "primary-light": {
+      "$value": "#FF4D7D",
+      "$type": "color",
+      "hex": "#FF4D7D",
+      "rgb": "rgb(255, 77, 125)",
+      "hsl": "hsl(344, 100%, 65%)",
+      "usage": "Links and inline emphasis on dark surfaces.",
+      "contrast": {
+        "onBackground": 6.14,
+        "withWhite": 3.18,
+        "withBlack": 6.61,
+        "guidance": "AA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "primary-subtle": {
+      "$value": "#3A0716",
+      "$type": "color",
+      "hex": "#3A0716",
+      "rgb": "rgb(58, 7, 22)",
+      "hsl": "hsl(342, 78%, 13%)",
+      "usage": "Tinted ground behind primary badges and selected chips.",
+      "contrast": {
+        "onBackground": 1.14,
+        "withWhite": 17.19,
+        "withBlack": 1.22,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "iris": {
+      "$value": "#DDBEF0",
+      "$type": "color",
+      "hex": "#DDBEF0",
+      "rgb": "rgb(221, 190, 240)",
+      "hsl": "hsl(277, 62%, 84%)",
+      "usage": "Personalisation and AI marks: For You labels, sparkle, 'because you…' lines.",
+      "contrast": {
+        "onBackground": 11.8,
+        "withWhite": 1.65,
+        "withBlack": 12.7,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "● Observed",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "iris-strong": {
+      "$value": "#B98BDB",
+      "$type": "color",
+      "hex": "#B98BDB",
+      "rgb": "rgb(185, 139, 219)",
+      "hsl": "hsl(274, 53%, 70%)",
+      "usage": "Iris icons and borders; hover of iris elements.",
+      "contrast": {
+        "onBackground": 7.23,
+        "withWhite": 2.7,
+        "withBlack": 7.78,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "iris-subtle": {
+      "$value": "#251A2E",
+      "$type": "color",
+      "hex": "#251A2E",
+      "rgb": "rgb(37, 26, 46)",
+      "hsl": "hsl(273, 28%, 14%)",
+      "usage": "Ground of personalisation chips and AI explanation panels.",
+      "contrast": {
+        "onBackground": 1.18,
+        "withWhite": 16.59,
+        "withBlack": 1.27,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "stage": {
+      "$value": "#000000",
+      "$type": "color",
+      "hex": "#000000",
+      "rgb": "rgb(0, 0, 0)",
+      "hsl": "hsl(0, 0%, 0%)",
+      "usage": "Full-bleed media stage and lock-screen ground. Same in both themes.",
+      "contrast": {
+        "onBackground": 1.08,
+        "withWhite": 21.0,
+        "withBlack": 1.0,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "● Observed",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "background": {
+      "$value": "#0C0C10",
+      "$type": "color",
+      "hex": "#0C0C10",
+      "rgb": "rgb(12, 12, 16)",
+      "hsl": "hsl(240, 14%, 5%)",
+      "usage": "App background.",
+      "contrast": {
+        "onBackground": 1.0,
+        "withWhite": 19.52,
+        "withBlack": 1.08,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "◐ Strong inference",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "surface": {
+      "$value": "#16161B",
+      "$type": "color",
+      "hex": "#16161B",
+      "rgb": "rgb(22, 22, 27)",
+      "hsl": "hsl(240, 10%, 10%)",
+      "usage": "Cards and grouped content without media.",
+      "contrast": {
+        "onBackground": 1.08,
+        "withWhite": 18.03,
+        "withBlack": 1.16,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "surface-elevated": {
+      "$value": "#202027",
+      "$type": "color",
+      "hex": "#202027",
+      "rgb": "rgb(32, 32, 39)",
+      "hsl": "hsl(240, 10%, 14%)",
+      "usage": "Sheets, menus, popovers. Light theme pairs it with shadow-2.",
+      "contrast": {
+        "onBackground": 1.21,
+        "withWhite": 16.19,
+        "withBlack": 1.3,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "surface-muted": {
+      "$value": "#2A2A33",
+      "$type": "color",
+      "hex": "#2A2A33",
+      "rgb": "rgb(42, 42, 51)",
+      "hsl": "hsl(240, 10%, 18%)",
+      "usage": "Inputs, skeletons, inactive chips.",
+      "contrast": {
+        "onBackground": 1.37,
+        "withWhite": 14.21,
+        "withBlack": 1.48,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "border": {
+      "$value": "rgba(255, 255, 255, 0.12)",
+      "$type": "color",
+      "hex": "#FFFFFF1F",
+      "rgb": "rgba(255, 255, 255, 0.12)",
+      "hsl": "hsl(0, 0%, 100% / 0.12)",
+      "usage": "Component borders (12% white on dark).",
+      "contrast": {
+        "onBackground": 1.36,
+        "withWhite": 14.31,
+        "withBlack": 1.47,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "divider": {
+      "$value": "rgba(255, 255, 255, 0.08)",
+      "$type": "color",
+      "hex": "#FFFFFF14",
+      "rgb": "rgba(255, 255, 255, 0.08)",
+      "hsl": "hsl(0, 0%, 100% / 0.08)",
+      "usage": "Hairline list separators (8% white on dark).",
+      "contrast": {
+        "onBackground": 1.19,
+        "withWhite": 16.43,
+        "withBlack": 1.28,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-primary": {
+      "$value": "#FFFFFF",
+      "$type": "color",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "hsl": "hsl(0, 0%, 100%)",
+      "usage": "Headlines, body.",
+      "contrast": {
+        "onBackground": 19.52,
+        "withWhite": 1.0,
+        "withBlack": 21.0,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "◐ Strong inference",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-secondary": {
+      "$value": "#B8B8C2",
+      "$type": "color",
+      "hex": "#B8B8C2",
+      "rgb": "rgb(184, 184, 194)",
+      "hsl": "hsl(240, 8%, 74%)",
+      "usage": "Supporting copy, descriptions.",
+      "contrast": {
+        "onBackground": 9.92,
+        "withWhite": 1.97,
+        "withBlack": 10.67,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-tertiary": {
+      "$value": "#85838F",
+      "$type": "color",
+      "hex": "#85838F",
+      "rgb": "rgb(133, 131, 143)",
+      "hsl": "hsl(250, 5%, 54%)",
+      "usage": "Metadata, timestamps, placeholders.",
+      "contrast": {
+        "onBackground": 5.24,
+        "withWhite": 3.72,
+        "withBlack": 5.64,
+        "guidance": "AA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-on-media": {
+      "$value": "#FFFFFF",
+      "$type": "color",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "hsl": "hsl(0, 0%, 100%)",
+      "usage": "Any text placed on imagery, always over a scrim.",
+      "contrast": {
+        "onBackground": 19.52,
+        "withWhite": 1.0,
+        "withBlack": 21.0,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "● Observed",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-on-primary": {
+      "$value": "#FFFFFF",
+      "$type": "color",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "hsl": "hsl(0, 0%, 100%)",
+      "usage": "Label on primary-action.",
+      "contrast": {
+        "onBackground": 19.52,
+        "withWhite": 1.0,
+        "withBlack": 21.0,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "success": {
+      "$value": "#2FD08A",
+      "$type": "color",
+      "hex": "#2FD08A",
+      "rgb": "rgb(47, 208, 138)",
+      "hsl": "hsl(154, 63%, 50%)",
+      "usage": "Confirmed, verified, live-fresh data.",
+      "contrast": {
+        "onBackground": 9.77,
+        "withWhite": 2.0,
+        "withBlack": 10.51,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "warning": {
+      "$value": "#FFB020",
+      "$type": "color",
+      "hex": "#FFB020",
+      "rgb": "rgb(255, 176, 32)",
+      "hsl": "hsl(39, 100%, 56%)",
+      "usage": "Price changed, stale data, limited stock.",
+      "contrast": {
+        "onBackground": 10.67,
+        "withWhite": 1.83,
+        "withBlack": 11.48,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "error": {
+      "$value": "#FF6B3D",
+      "$type": "color",
+      "hex": "#FF6B3D",
+      "rgb": "rgb(255, 107, 61)",
+      "hsl": "hsl(14, 100%, 62%)",
+      "usage": "Failures. Orange-red, kept visibly apart from the brand pink-red; always with an icon.",
+      "contrast": {
+        "onBackground": 6.9,
+        "withWhite": 2.83,
+        "withBlack": 7.42,
+        "guidance": "AA text on background"
+      },
+      "confidence": "◇ Original interpretation",
+      "note": "Original interpretation for this system."
+    },
+    "info": {
+      "$value": "#5AA9FF",
+      "$type": "color",
+      "hex": "#5AA9FF",
+      "rgb": "rgb(90, 169, 255)",
+      "hsl": "hsl(211, 100%, 68%)",
+      "usage": "Neutral system information, tips.",
+      "contrast": {
+        "onBackground": 7.95,
+        "withWhite": 2.46,
+        "withBlack": 8.55,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    }
+  },
+  "light": {
+    "primary": {
+      "$value": "#FF0049",
+      "$type": "color",
+      "hex": "#FF0049",
+      "rgb": "rgb(255, 0, 73)",
+      "hsl": "hsl(343, 100%, 50%)",
+      "usage": "Brand signal. Live dots, active indicators, icons, large display accents. Never body text on light.",
+      "contrast": {
+        "onBackground": 3.93,
+        "withWhite": 3.93,
+        "withBlack": 5.35,
+        "guidance": "Large text / icons / UI only on background"
+      },
+      "confidence": "● Observed",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "primary-action": {
+      "$value": "#E6003F",
+      "$type": "color",
+      "hex": "#E6003F",
+      "rgb": "rgb(230, 0, 63)",
+      "hsl": "hsl(344, 100%, 45%)",
+      "usage": "Filled primary button with white label (passes 4.5:1).",
+      "contrast": {
+        "onBackground": 4.73,
+        "withWhite": 4.73,
+        "withBlack": 4.44,
+        "guidance": "AA text on background"
+      },
+      "confidence": "◇ Original interpretation",
+      "note": "Original interpretation for this system."
+    },
+    "primary-dark": {
+      "$value": "#B80036",
+      "$type": "color",
+      "hex": "#B80036",
+      "rgb": "rgb(184, 0, 54)",
+      "hsl": "hsl(342, 100%, 36%)",
+      "usage": "Pressed state of primary-action; primary text on light surfaces.",
+      "contrast": {
+        "onBackground": 6.79,
+        "withWhite": 6.79,
+        "withBlack": 3.09,
+        "guidance": "AA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "primary-light": {
+      "$value": "#FF4D7D",
+      "$type": "color",
+      "hex": "#FF4D7D",
+      "rgb": "rgb(255, 77, 125)",
+      "hsl": "hsl(344, 100%, 65%)",
+      "usage": "Links and inline emphasis on dark surfaces.",
+      "contrast": {
+        "onBackground": 3.18,
+        "withWhite": 3.18,
+        "withBlack": 6.61,
+        "guidance": "Large text / icons / UI only on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "primary-subtle": {
+      "$value": "#FFE8EE",
+      "$type": "color",
+      "hex": "#FFE8EE",
+      "rgb": "rgb(255, 232, 238)",
+      "hsl": "hsl(344, 100%, 95%)",
+      "usage": "Tinted ground behind primary badges and selected chips.",
+      "contrast": {
+        "onBackground": 1.16,
+        "withWhite": 1.16,
+        "withBlack": 18.03,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "iris": {
+      "$value": "#7B4FA6",
+      "$type": "color",
+      "hex": "#7B4FA6",
+      "rgb": "rgb(123, 79, 166)",
+      "hsl": "hsl(270, 36%, 48%)",
+      "usage": "Personalisation and AI marks: For You labels, sparkle, 'because you…' lines.",
+      "contrast": {
+        "onBackground": 5.98,
+        "withWhite": 5.98,
+        "withBlack": 3.51,
+        "guidance": "AA text on background"
+      },
+      "confidence": "● Observed",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "iris-strong": {
+      "$value": "#5E3786",
+      "$type": "color",
+      "hex": "#5E3786",
+      "rgb": "rgb(94, 55, 134)",
+      "hsl": "hsl(270, 42%, 37%)",
+      "usage": "Iris icons and borders; hover of iris elements.",
+      "contrast": {
+        "onBackground": 8.87,
+        "withWhite": 8.87,
+        "withBlack": 2.37,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "iris-subtle": {
+      "$value": "#F5EDFB",
+      "$type": "color",
+      "hex": "#F5EDFB",
+      "rgb": "rgb(245, 237, 251)",
+      "hsl": "hsl(274, 64%, 96%)",
+      "usage": "Ground of personalisation chips and AI explanation panels.",
+      "contrast": {
+        "onBackground": 1.14,
+        "withWhite": 1.14,
+        "withBlack": 18.39,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "stage": {
+      "$value": "#000000",
+      "$type": "color",
+      "hex": "#000000",
+      "rgb": "rgb(0, 0, 0)",
+      "hsl": "hsl(0, 0%, 0%)",
+      "usage": "Full-bleed media stage and lock-screen ground. Same in both themes.",
+      "contrast": {
+        "onBackground": 21.0,
+        "withWhite": 21.0,
+        "withBlack": 1.0,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "● Observed",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "background": {
+      "$value": "#FFFFFF",
+      "$type": "color",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "hsl": "hsl(0, 0%, 100%)",
+      "usage": "App background.",
+      "contrast": {
+        "onBackground": 1.0,
+        "withWhite": 1.0,
+        "withBlack": 21.0,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "◐ Strong inference",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "surface": {
+      "$value": "#F6F5F8",
+      "$type": "color",
+      "hex": "#F6F5F8",
+      "rgb": "rgb(246, 245, 248)",
+      "hsl": "hsl(260, 18%, 97%)",
+      "usage": "Cards and grouped content without media.",
+      "contrast": {
+        "onBackground": 1.09,
+        "withWhite": 1.09,
+        "withBlack": 19.33,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "surface-elevated": {
+      "$value": "#FFFFFF",
+      "$type": "color",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "hsl": "hsl(0, 0%, 100%)",
+      "usage": "Sheets, menus, popovers. Light theme pairs it with shadow-2.",
+      "contrast": {
+        "onBackground": 1.0,
+        "withWhite": 1.0,
+        "withBlack": 21.0,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "surface-muted": {
+      "$value": "#ECEBF0",
+      "$type": "color",
+      "hex": "#ECEBF0",
+      "rgb": "rgb(236, 235, 240)",
+      "hsl": "hsl(252, 14%, 93%)",
+      "usage": "Inputs, skeletons, inactive chips.",
+      "contrast": {
+        "onBackground": 1.19,
+        "withWhite": 1.19,
+        "withBlack": 17.71,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "border": {
+      "$value": "#E2E0E8",
+      "$type": "color",
+      "hex": "#E2E0E8",
+      "rgb": "rgb(226, 224, 232)",
+      "hsl": "hsl(255, 15%, 89%)",
+      "usage": "Component borders (12% white on dark).",
+      "contrast": {
+        "onBackground": 1.31,
+        "withWhite": 1.31,
+        "withBlack": 16.06,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "divider": {
+      "$value": "#EEEDF2",
+      "$type": "color",
+      "hex": "#EEEDF2",
+      "rgb": "rgb(238, 237, 242)",
+      "hsl": "hsl(252, 16%, 94%)",
+      "usage": "Hairline list separators (8% white on dark).",
+      "contrast": {
+        "onBackground": 1.16,
+        "withWhite": 1.16,
+        "withBlack": 18.03,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-primary": {
+      "$value": "#0C0C10",
+      "$type": "color",
+      "hex": "#0C0C10",
+      "rgb": "rgb(12, 12, 16)",
+      "hsl": "hsl(240, 14%, 5%)",
+      "usage": "Headlines, body.",
+      "contrast": {
+        "onBackground": 19.52,
+        "withWhite": 19.52,
+        "withBlack": 1.08,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "◐ Strong inference",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-secondary": {
+      "$value": "#55535E",
+      "$type": "color",
+      "hex": "#55535E",
+      "rgb": "rgb(85, 83, 94)",
+      "hsl": "hsl(251, 6%, 35%)",
+      "usage": "Supporting copy, descriptions.",
+      "contrast": {
+        "onBackground": 7.54,
+        "withWhite": 7.54,
+        "withBlack": 2.79,
+        "guidance": "AAA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-tertiary": {
+      "$value": "#6B6975",
+      "$type": "color",
+      "hex": "#6B6975",
+      "rgb": "rgb(107, 105, 117)",
+      "hsl": "hsl(250, 5%, 44%)",
+      "usage": "Metadata, timestamps, placeholders.",
+      "contrast": {
+        "onBackground": 5.38,
+        "withWhite": 5.38,
+        "withBlack": 3.9,
+        "guidance": "AA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-on-media": {
+      "$value": "#FFFFFF",
+      "$type": "color",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "hsl": "hsl(0, 0%, 100%)",
+      "usage": "Any text placed on imagery, always over a scrim.",
+      "contrast": {
+        "onBackground": 1.0,
+        "withWhite": 1.0,
+        "withBlack": 21.0,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "● Observed",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "text-on-primary": {
+      "$value": "#FFFFFF",
+      "$type": "color",
+      "hex": "#FFFFFF",
+      "rgb": "rgb(255, 255, 255)",
+      "hsl": "hsl(0, 0%, 100%)",
+      "usage": "Label on primary-action.",
+      "contrast": {
+        "onBackground": 1.0,
+        "withWhite": 1.0,
+        "withBlack": 21.0,
+        "guidance": "Decorative / surface only; never text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "success": {
+      "$value": "#0A7F4A",
+      "$type": "color",
+      "hex": "#0A7F4A",
+      "rgb": "rgb(10, 127, 74)",
+      "hsl": "hsl(153, 85%, 27%)",
+      "usage": "Confirmed, verified, live-fresh data.",
+      "contrast": {
+        "onBackground": 5.06,
+        "withWhite": 5.06,
+        "withBlack": 4.15,
+        "guidance": "AA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "warning": {
+      "$value": "#9A5B00",
+      "$type": "color",
+      "hex": "#9A5B00",
+      "rgb": "rgb(154, 91, 0)",
+      "hsl": "hsl(35, 100%, 30%)",
+      "usage": "Price changed, stale data, limited stock.",
+      "contrast": {
+        "onBackground": 5.43,
+        "withWhite": 5.43,
+        "withBlack": 3.87,
+        "guidance": "AA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    },
+    "error": {
+      "$value": "#C2381A",
+      "$type": "color",
+      "hex": "#C2381A",
+      "rgb": "rgb(194, 56, 26)",
+      "hsl": "hsl(11, 76%, 43%)",
+      "usage": "Failures. Orange-red, kept visibly apart from the brand pink-red; always with an icon.",
+      "contrast": {
+        "onBackground": 5.42,
+        "withWhite": 5.42,
+        "withBlack": 3.87,
+        "guidance": "AA text on background"
+      },
+      "confidence": "◇ Original interpretation",
+      "note": "Original interpretation for this system."
+    },
+    "info": {
+      "$value": "#1F63C7",
+      "$type": "color",
+      "hex": "#1F63C7",
+      "rgb": "rgb(31, 99, 199)",
+      "hsl": "hsl(216, 73%, 45%)",
+      "usage": "Neutral system information, tips.",
+      "contrast": {
+        "onBackground": 5.73,
+        "withWhite": 5.73,
+        "withBlack": 3.67,
+        "guidance": "AA text on background"
+      },
+      "confidence": "○ Reconstruction",
+      "note": "Observed / reconstructed approximation. Not an official Glance value."
+    }
+  },
+  "overlay": {
+    "scrim-bottom": {
+      "$value": "linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,.35) 45%, rgba(0,0,0,.85) 100%)",
+      "$type": "gradient",
+      "usage": "Bottom 55% of any media card carrying text.",
+      "confidence": "◐ Strong inference"
+    },
+    "scrim-top": {
+      "$value": "linear-gradient(180deg, rgba(0,0,0,.55) 0%, rgba(0,0,0,0) 100%)",
+      "$type": "gradient",
+      "usage": "Top 20% of full-bleed media, under the status bar and chrome.",
+      "confidence": "◐ Strong inference"
+    },
+    "scrim-full": {
+      "$value": "rgba(0,0,0,.48)",
+      "$type": "color",
+      "usage": "Media behind modals and sheets.",
+      "confidence": "○ Reconstruction"
+    },
+    "glass": {
+      "$value": "rgba(22,22,27,.56)",
+      "$type": "color",
+      "usage": "Floating controls on media, with 20px backdrop blur.",
+      "confidence": "○ Reconstruction"
+    },
+    "glass-light": {
+      "$value": "rgba(255,255,255,.16)",
+      "$type": "color",
+      "usage": "Chips and buttons placed directly on imagery.",
+      "confidence": "○ Reconstruction"
+    },
+    "video-control": {
+      "$value": "rgba(255,255,255,.92)",
+      "$type": "color",
+      "usage": "Play/pause glyphs and progress fill on video.",
+      "confidence": "○ Reconstruction"
+    },
+    "video-track": {
+      "$value": "rgba(255,255,255,.32)",
+      "$type": "color",
+      "usage": "Progress track on video and story bars.",
+      "confidence": "○ Reconstruction"
+    },
+    "media-ground": {
+      "$value": "#000000",
+      "$type": "color",
+      "usage": "Letterbox and loading ground for media.",
+      "confidence": "● Observed"
+    },
+    "signal-glow": {
+      "$value": "rgba(255,0,73,.35)",
+      "$type": "color",
+      "usage": "Glow under the single floating action. Nowhere else.",
+      "confidence": "◇ Original interpretation"
+    }
+  }
+}

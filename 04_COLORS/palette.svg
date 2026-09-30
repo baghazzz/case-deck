@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1640" viewBox="0 0 1600 1640" role="img" aria-labelledby="t d">
+<title id="t">Colour palette</title>
+<desc id="d">Red means now. Lavender means you. Everything else is a dark stage that lets imagery do the talking. #FF0049 and #DDBEF0 are observed brand hues; all other values are reconstructed approximations. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c6"><rect x="64" y="1190" width="220" height="120" rx="12"/></clipPath><linearGradient id="g7" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="0.45" stop-color="#6A1C5C"/><stop offset="0.75" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFB38A"/></linearGradient><linearGradient id="g8" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="0.0" stop-color="#000" stop-opacity="0.0"/><stop offset="0.25" stop-color="#000" stop-opacity="0.35"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient><clipPath id="c9"><rect x="308" y="1190" width="220" height="120" rx="12"/></clipPath><linearGradient id="g10" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="0.45" stop-color="#6A1C5C"/><stop offset="0.75" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFB38A"/></linearGradient><linearGradient id="g11" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0.55"/><stop offset="1" stop-color="#000" stop-opacity="0"/></linearGradient><clipPath id="c12"><rect x="552" y="1190" width="220" height="120" rx="12"/></clipPath><linearGradient id="g13" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="0.45" stop-color="#6A1C5C"/><stop offset="0.75" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFB38A"/></linearGradient><clipPath id="c14"><rect x="796" y="1190" width="220" height="120" rx="12"/></clipPath><linearGradient id="g15" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="0.45" stop-color="#6A1C5C"/><stop offset="0.75" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFB38A"/></linearGradient><clipPath id="c16"><rect x="1040" y="1190" width="220" height="120" rx="12"/></clipPath><linearGradient id="g17" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="0.45" stop-color="#6A1C5C"/><stop offset="0.75" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFB38A"/></linearGradient><clipPath id="c18"><rect x="1284" y="1190" width="220" height="120" rx="12"/></clipPath><linearGradient id="g19" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="0.45" stop-color="#6A1C5C"/><stop offset="0.75" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFB38A"/></linearGradient><clipPath id="c20"><rect x="976.64" y="1420" width="353.28" height="36" rx="0"/></clipPath><linearGradient id="g21" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="0.45" stop-color="#6A1C5C"/><stop offset="0.75" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFB38A"/></linearGradient></defs>
+<rect id="background" width="1600" height="1640" fill="#0C0C10"/>
+<text x="64" y="84" class="sans" font-size="12" font-weight="600" letter-spacing="0.96" fill="#FF0049">FOUNDATIONS · 04</text>
+<text x="64" y="148" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" fill="#FFFFFF">Colour</text>
+<text x="1016" y="76" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">Red means now. Lavender means you. Everything else is a dark stage</text><text x="1016" y="98.5" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">that lets imagery do the talking. #FF0049 and #DDBEF0 are observed</text><text x="1016" y="121" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">brand hues; all other values are reconstructed approximations.</text>
+<line x1="64" y1="184" x2="1536" y2="184" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<line x1="64" y1="1584" x2="1536" y2="1584" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1614" class="sans" font-size="12" font-weight="500" fill="#85838F">Wake · A Glance-inspired design system · v1.0</text>
+<path d="M1399.65 1605.55 L1404.45 1610.35 L1399.65 1615.15 L1394.85 1610.35Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1410.45" y="1614" class="sans" font-size="12" font-weight="500" fill="#85838F">Original interpretation</text>
+<circle cx="1276.67" cy="1610.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1287.47" y="1614" class="sans" font-size="12" font-weight="500" fill="#85838F">Reconstruction</text>
+<circle cx="1145.13" cy="1610.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M1145.13 1606.15 A4.200000000000001 4.200000000000001 0 0 0 1145.13 1614.55Z" fill="#85838F"/><text x="1155.93" y="1614" class="sans" font-size="12" font-weight="500" fill="#85838F">Strong inference</text>
+<circle cx="1053.03" cy="1610.35" r="4.8" fill="#85838F"/><text x="1063.83" y="1614" class="sans" font-size="12" font-weight="500" fill="#85838F">Observed</text>
+<text x="64" y="240" class="sans" font-size="11" font-weight="600" letter-spacing="0.88" fill="#85838F">BRAND · SIGNAL &amp; IRIS</text>
+<rect x="64" y="262" width="170" height="96" rx="12" fill="#FF0049" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="64" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">primary</text>
+<text x="64" y="402" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#FF0049</text>
+<circle cx="129.96" cy="398.58" r="4.5" fill="#FFFFFF"/>
+<text x="64" y="420" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Brand signal. Live dots,</text>
+<text x="64" y="436" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">active indicators, icons, large</text>
+<rect x="248" y="262" width="170" height="96" rx="12" fill="#E6003F" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="248" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">primary-action</text>
+<text x="248" y="402" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#E6003F</text>
+<path d="M313.77 394.08 L318.27 398.58 L313.77 403.08 L309.27 398.58Z" fill="none" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="248" y="420" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Filled primary button with</text>
+<text x="248" y="436" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">white label (passes 4.5:1).</text>
+<rect x="432" y="262" width="170" height="96" rx="12" fill="#B80036" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="432" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">primary-dark</text>
+<text x="432" y="402" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#B80036</text>
+<circle cx="498.9" cy="398.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="432" y="420" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Pressed state of</text>
+<text x="432" y="436" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">primary-action; primary text</text>
+<rect x="616" y="262" width="170" height="96" rx="12" fill="#FF4D7D" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="616" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">primary-light</text>
+<text x="616" y="402" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#FF4D7D</text>
+<circle cx="683.08" cy="398.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="616" y="420" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Links and inline emphasis on</text>
+<text x="616" y="436" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">dark surfaces.</text>
+<rect x="800" y="262" width="170" height="96" rx="12" fill="#3A0716" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="800" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">primary-subtle</text>
+<text x="800" y="402" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#3A0716</text>
+<circle cx="863.82" cy="398.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="800" y="420" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Tinted ground behind</text>
+<text x="800" y="436" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">primary badges and selected</text>
+<rect x="984" y="262" width="170" height="96" rx="12" fill="#DDBEF0" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="984" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">iris</text>
+<text x="984" y="402" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#DDBEF0</text>
+<circle cx="1052.15" cy="398.58" r="4.5" fill="#FFFFFF"/>
+<text x="984" y="420" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Personalisation and AI marks:</text>
+<text x="984" y="436" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">For You labels, sparkle,</text>
+<rect x="1168" y="262" width="170" height="96" rx="12" fill="#B98BDB" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="1168" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">iris-strong</text>
+<text x="1168" y="402" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#B98BDB</text>
+<circle cx="1236.31" cy="398.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="1168" y="420" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Iris icons and borders; hover</text>
+<text x="1168" y="436" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">of iris elements.</text>
+<rect x="1352" y="262" width="170" height="96" rx="12" fill="#251A2E" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="1352" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">iris-subtle</text>
+<text x="1352" y="402" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#251A2E</text>
+<circle cx="1415.64" cy="398.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="1352" y="420" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Ground of personalisation</text>
+<text x="1352" y="436" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">chips and AI explanation</text>
+<text x="64" y="472" class="sans" font-size="11" font-weight="600" letter-spacing="0.88" fill="#85838F">NEUTRAL · STAGE &amp; SURFACES</text>
+<rect x="64" y="494" width="170" height="96" rx="12" fill="#000000" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="64" y="614" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">stage</text>
+<text x="64" y="634" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#000000</text>
+<circle cx="131.36" cy="630.58" r="4.5" fill="#FFFFFF"/>
+<text x="64" y="652" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Full-bleed media stage and</text>
+<text x="64" y="668" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">lock-screen ground. Same in</text>
+<rect x="248" y="494" width="170" height="96" rx="12" fill="#0C0C10" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="248" y="614" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">background</text>
+<text x="248" y="634" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#0C0C10</text>
+<circle cx="314.7" cy="630.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/><path d="M314.7 626.68 A3.9 3.9 0 0 0 314.7 634.48Z" fill="#FFFFFF"/>
+<text x="248" y="652" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">App background.</text>
+<rect x="432" y="494" width="170" height="96" rx="12" fill="#16161B" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="432" y="614" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">surface</text>
+<text x="432" y="634" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#16161B</text>
+<circle cx="490.83" cy="630.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="432" y="652" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Cards and grouped content</text>
+<text x="432" y="668" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">without media.</text>
+<rect x="616" y="494" width="170" height="96" rx="12" fill="#202027" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="616" y="614" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">surface-elevated</text>
+<text x="616" y="634" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#202027</text>
+<circle cx="681.42" cy="630.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="616" y="652" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Sheets, menus, popovers.</text>
+<text x="616" y="668" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Light theme pairs it with</text>
+<rect x="800" y="494" width="170" height="96" rx="12" fill="#2A2A33" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="800" y="614" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">surface-muted</text>
+<text x="800" y="634" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#2A2A33</text>
+<circle cx="867.74" cy="630.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="800" y="652" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Inputs, skeletons, inactive</text>
+<text x="800" y="668" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">chips.</text>
+<rect x="984" y="494" width="170" height="96" rx="12" fill="rgba(255, 255, 255, 0.12)" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="984" y="614" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">border</text>
+<text x="984" y="634" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#FFFFFF1F</text>
+<circle cx="1059.62" cy="630.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="984" y="652" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Component borders (12%</text>
+<text x="984" y="668" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">white on dark).</text>
+<rect x="1168" y="494" width="170" height="96" rx="12" fill="rgba(255, 255, 255, 0.08)" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="1168" y="614" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">divider</text>
+<text x="1168" y="634" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#FFFFFF14</text>
+<circle cx="1244.42" cy="630.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="1168" y="652" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Hairline list separators (8%</text>
+<text x="1168" y="668" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">white on dark).</text>
+<text x="64" y="704" class="sans" font-size="11" font-weight="600" letter-spacing="0.88" fill="#85838F">TEXT</text>
+<rect x="64" y="726" width="170" height="96" rx="12" fill="#FFFFFF" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="64" y="846" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">text-primary</text>
+<text x="64" y="866" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#FFFFFF</text>
+<circle cx="127.33" cy="862.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/><path d="M127.33 858.68 A3.9 3.9 0 0 0 127.33 866.48Z" fill="#FFFFFF"/>
+<text x="64" y="884" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Headlines, body.</text>
+<rect x="248" y="726" width="170" height="96" rx="12" fill="#B8B8C2" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="248" y="846" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">text-secondary</text>
+<text x="248" y="866" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#B8B8C2</text>
+<circle cx="315.95" cy="862.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="248" y="884" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Supporting copy,</text>
+<text x="248" y="900" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">descriptions.</text>
+<rect x="432" y="726" width="170" height="96" rx="12" fill="#85838F" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="432" y="846" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">text-tertiary</text>
+<text x="432" y="866" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#85838F</text>
+<circle cx="497.38" cy="862.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="432" y="884" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Metadata, timestamps,</text>
+<text x="432" y="900" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">placeholders.</text>
+<rect x="616" y="726" width="170" height="96" rx="12" fill="#FFFFFF" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="616" y="846" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">text-on-media</text>
+<text x="616" y="866" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#FFFFFF</text>
+<circle cx="679.33" cy="862.58" r="4.5" fill="#FFFFFF"/>
+<text x="616" y="884" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Any text placed on imagery,</text>
+<text x="616" y="900" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">always over a scrim.</text>
+<text x="64" y="936" class="sans" font-size="11" font-weight="600" letter-spacing="0.88" fill="#85838F">SEMANTIC</text>
+<rect x="64" y="958" width="170" height="96" rx="12" fill="#2FD08A" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="64" y="1078" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">success</text>
+<text x="64" y="1098" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#2FD08A</text>
+<circle cx="131.82" cy="1094.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="64" y="1116" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Confirmed, verified,</text>
+<text x="64" y="1132" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">live-fresh data.</text>
+<rect x="248" y="958" width="170" height="96" rx="12" fill="#FFB020" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="248" y="1078" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">warning</text>
+<text x="248" y="1098" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#FFB020</text>
+<circle cx="313.8" cy="1094.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="248" y="1116" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Price changed, stale data,</text>
+<text x="248" y="1132" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">limited stock.</text>
+<rect x="432" y="958" width="170" height="96" rx="12" fill="#FF6B3D" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="432" y="1078" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">error</text>
+<text x="432" y="1098" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#FF6B3D</text>
+<path d="M498.66 1090.08 L503.16 1094.58 L498.66 1099.08 L494.16 1094.58Z" fill="none" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="432" y="1116" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Failures. Orange-red, kept</text>
+<text x="432" y="1132" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">visibly apart from the brand</text>
+<rect x="616" y="958" width="170" height="96" rx="12" fill="#5AA9FF" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="616" y="1078" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">info</text>
+<text x="616" y="1098" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF" opacity="0.72">#5AA9FF</text>
+<circle cx="683.02" cy="1094.58" r="3.9" fill="none" stroke="#FFFFFF" stroke-width="1.2"/>
+<text x="616" y="1116" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">Neutral system information,</text>
+<text x="616" y="1132" class="sans" font-size="12" font-weight="500" fill="#FFFFFF" opacity="0.56">tips.</text>
+<text x="64" y="1168" class="sans" font-size="11" font-weight="600" letter-spacing="0.88" fill="#85838F">CONTENT OVERLAYS</text>
+<g clip-path="url(#c6)" data-media="dusk"><rect x="64" y="1190" width="220" height="120" fill="url(#g7)"/><circle cx="200.4" cy="1264.4" r="19.2" fill="#FFD9B0" opacity="0.95"/><path d="M64 1276.4 Q119.0 1264.4 174.0 1276.4 T284 1274.0 V1310 H64Z" fill="#2A0E2E"/><path d="M64 1288.4 Q130.0 1281.2 196.0 1290.8 T284 1286.0 V1310 H64Z" fill="#12060F"/></g>
+<rect x="64" y="1190" width="220" height="120" rx="12" fill="url(#g8)"/>
+<text x="64" y="1336" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">scrim-bottom</text>
+<circle cx="68.8" cy="1352.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M68.8 1348.15 A4.200000000000001 4.200000000000001 0 0 0 68.8 1356.55Z" fill="#85838F"/><text x="79.6" y="1356" class="sans" font-size="12" font-weight="500" fill="#85838F">Bottom 55% of any media card carry</text>
+<g clip-path="url(#c9)" data-media="dusk"><rect x="308" y="1190" width="220" height="120" fill="url(#g10)"/><circle cx="444.4" cy="1264.4" r="19.2" fill="#FFD9B0" opacity="0.95"/><path d="M308 1276.4 Q363.0 1264.4 418.0 1276.4 T528 1274.0 V1310 H308Z" fill="#2A0E2E"/><path d="M308 1288.4 Q374.0 1281.2 440.0 1290.8 T528 1286.0 V1310 H308Z" fill="#12060F"/></g>
+<rect x="308" y="1190" width="220" height="60" rx="12" fill="url(#g11)"/>
+<text x="308" y="1336" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">scrim-top</text>
+<circle cx="312.8" cy="1352.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M312.8 1348.15 A4.200000000000001 4.200000000000001 0 0 0 312.8 1356.55Z" fill="#85838F"/><text x="323.6" y="1356" class="sans" font-size="12" font-weight="500" fill="#85838F">Top 20% of full-bleed media, under</text>
+<g clip-path="url(#c12)" data-media="dusk"><rect x="552" y="1190" width="220" height="120" fill="url(#g13)"/><circle cx="688.4" cy="1264.4" r="19.2" fill="#FFD9B0" opacity="0.95"/><path d="M552 1276.4 Q607.0 1264.4 662.0 1276.4 T772 1274.0 V1310 H552Z" fill="#2A0E2E"/><path d="M552 1288.4 Q618.0 1281.2 684.0 1290.8 T772 1286.0 V1310 H552Z" fill="#12060F"/></g>
+<rect x="552" y="1190" width="220" height="120" rx="12" fill="rgba(0,0,0,.48)"/>
+<text x="552" y="1336" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">scrim-full</text>
+<circle cx="556.8" cy="1352.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="567.6" y="1356" class="sans" font-size="12" font-weight="500" fill="#85838F">Media behind modals and sheets.</text>
+<g clip-path="url(#c14)" data-media="dusk"><rect x="796" y="1190" width="220" height="120" fill="url(#g15)"/><circle cx="932.4" cy="1264.4" r="19.2" fill="#FFD9B0" opacity="0.95"/><path d="M796 1276.4 Q851.0 1264.4 906.0 1276.4 T1016 1274.0 V1310 H796Z" fill="#2A0E2E"/><path d="M796 1288.4 Q862.0 1281.2 928.0 1290.8 T1016 1286.0 V1310 H796Z" fill="#12060F"/></g>
+<rect x="836" y="1226" width="140" height="48" rx="24" fill="rgba(22,22,27,.56)"/>
+<text x="796" y="1336" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">glass</text>
+<circle cx="800.8" cy="1352.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="811.6" y="1356" class="sans" font-size="12" font-weight="500" fill="#85838F">Floating controls on media, with 2</text>
+<g clip-path="url(#c16)" data-media="dusk"><rect x="1040" y="1190" width="220" height="120" fill="url(#g17)"/><circle cx="1176.4" cy="1264.4" r="19.2" fill="#FFD9B0" opacity="0.95"/><path d="M1040 1276.4 Q1095.0 1264.4 1150.0 1276.4 T1260 1274.0 V1310 H1040Z" fill="#2A0E2E"/><path d="M1040 1288.4 Q1106.0 1281.2 1172.0 1290.8 T1260 1286.0 V1310 H1040Z" fill="#12060F"/></g>
+<rect x="1080" y="1226" width="140" height="48" rx="24" fill="rgba(255,255,255,.16)"/>
+<text x="1040" y="1336" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">glass-light</text>
+<circle cx="1044.8" cy="1352.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1055.6" y="1356" class="sans" font-size="12" font-weight="500" fill="#85838F">Chips and buttons placed directly </text>
+<g clip-path="url(#c18)" data-media="dusk"><rect x="1284" y="1190" width="220" height="120" fill="url(#g19)"/><circle cx="1420.4" cy="1264.4" r="19.2" fill="#FFD9B0" opacity="0.95"/><path d="M1284 1276.4 Q1339.0 1264.4 1394.0 1276.4 T1504 1274.0 V1310 H1284Z" fill="#2A0E2E"/><path d="M1284 1288.4 Q1350.0 1281.2 1416.0 1290.8 T1504 1286.0 V1310 H1284Z" fill="#12060F"/></g>
+<rect x="1324" y="1226" width="140" height="48" rx="24" fill="rgba(255,255,255,.92)"/>
+<text x="1284" y="1336" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">video-control</text>
+<circle cx="1288.8" cy="1352.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1299.6" y="1356" class="sans" font-size="12" font-weight="500" fill="#85838F">Play/pause glyphs and progress fil</text>
+<text x="64" y="1400" class="sans" font-size="11" font-weight="600" letter-spacing="0.88" fill="#85838F">COLOUR BUDGET ON A TYPICAL SCREEN</text>
+<rect x="64" y="1420" width="912.64" height="36" fill="#000000" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<g clip-path="url(#c20)" data-media="dusk"><rect x="976.64" y="1420" width="353.28" height="36" fill="url(#g21)"/><circle cx="1195.67" cy="1442.32" r="5.76" fill="#FFD9B0" opacity="0.95"/><path d="M976.64 1445.92 Q1064.96 1442.32 1153.28 1445.92 T1329.92 1445.2 V1456 H976.64Z" fill="#2A0E2E"/><path d="M976.64 1449.52 Q1082.624 1447.36 1188.608 1450.24 T1329.92 1448.8 V1456 H976.64Z" fill="#12060F"/></g>
+<rect x="1329.92" y="1420" width="132.48" height="36" fill="#202027" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<rect x="1462.4" y="1420" width="51.52" height="36" fill="#FFFFFF" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<rect x="1513.92" y="1420" width="14.72" height="36" fill="#DDBEF0" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<rect x="1528.64" y="1420" width="7.36" height="36" fill="#FF0049" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="64" y="1484" class="sans" font-size="12" font-weight="500" fill="#85838F">≈ 62% stage · 24% imagery · 9% surfaces · 3.5% text · 1% iris · 0.5% signal (a target, not a measurement)</text>
+</svg>
