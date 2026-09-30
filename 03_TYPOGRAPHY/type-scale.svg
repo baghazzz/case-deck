@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1500" viewBox="0 0 1600 1500" role="img" aria-labelledby="t d">
+<title id="t">Type scale</title>
+<desc id="d">Two families. Instrument Serif carries the editorial hook, sparingly. Inter carries everything that has to be read fast. Sizes are mobile; desktop steps up at 1024px. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect id="background" width="1600" height="1500" fill="#0C0C10"/>
+<text x="64" y="84" class="sans" font-size="12" font-weight="600" letter-spacing="0.96" fill="#FF0049">FOUNDATIONS · 03</text>
+<text x="64" y="148" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" fill="#FFFFFF">Type scale</text>
+<text x="1016" y="76" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">Two families. Instrument Serif carries the editorial hook, sparingly. Inter</text><text x="1016" y="98.5" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">carries everything that has to be read fast. Sizes are mobile; desktop</text><text x="1016" y="121" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">steps up at 1024px.</text>
+<line x1="64" y1="184" x2="1536" y2="184" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<line x1="64" y1="1444" x2="1536" y2="1444" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1474" class="sans" font-size="12" font-weight="500" fill="#85838F">Wake · A Glance-inspired design system · v1.0</text>
+<path d="M1399.65 1465.55 L1404.45 1470.35 L1399.65 1475.15 L1394.85 1470.35Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1410.45" y="1474" class="sans" font-size="12" font-weight="500" fill="#85838F">Original interpretation</text>
+<circle cx="1276.67" cy="1470.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1287.47" y="1474" class="sans" font-size="12" font-weight="500" fill="#85838F">Reconstruction</text>
+<circle cx="1145.13" cy="1470.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M1145.13 1466.15 A4.200000000000001 4.200000000000001 0 0 0 1145.13 1474.55Z" fill="#85838F"/><text x="1155.93" y="1474" class="sans" font-size="12" font-weight="500" fill="#85838F">Strong inference</text>
+<circle cx="1053.03" cy="1470.35" r="4.8" fill="#85838F"/><text x="1063.83" y="1474" class="sans" font-size="12" font-weight="500" fill="#85838F">Observed</text>
+<text x="64" y="297.6" class="disp" font-size="56" font-weight="400" letter-spacing="-0.56" fill="#FFFFFF">Starring you, every morning</text>
+<text x="1060" y="264" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">display-xl</text>
+<text x="1060" y="284" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Instrument Serif 400 · 56/1.0 · -0.01em · ≤18ch</text>
+<text x="1060" y="302" class="sans" font-size="12" font-weight="500" fill="#85838F">Editorial hooks on cover media and deck titles. Desktop 72.</text>
+<path d="M1404.4 256.26 L1408.8 260.66 L1404.4 265.06 L1400 260.66Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1414.8" y="264" class="sans" font-size="11" font-weight="500" fill="#85838F">Original interpretation</text>
+<line x1="64" y1="336" x2="1536" y2="336" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="382" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">Pick what wakes you up</text>
+<text x="1060" y="362" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">display</text>
+<text x="1060" y="382" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Instrument Serif 400 · 40/1.05 · -0.005em · ≤22ch</text>
+<text x="1060" y="400" class="sans" font-size="12" font-weight="500" fill="#85838F">Section openers, onboarding statements. Desktop 56.</text>
+<path d="M1404.4 354.26 L1408.8 358.66 L1404.4 363.06 L1400 358.66Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1414.8" y="362" class="sans" font-size="11" font-weight="500" fill="#85838F">Original interpretation</text>
+<line x1="64" y1="424" x2="1536" y2="424" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="458.1" class="sans" font-size="26" font-weight="700" letter-spacing="-0.52" fill="#FFFFFF">Monsoon's over. Six beaches worth the flight</text>
+<text x="1060" y="450" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">headline-media</text>
+<text x="1060" y="470" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 700 · 26/1.15 · -0.02em · ≤40ch</text>
+<text x="1060" y="488" class="sans" font-size="12" font-weight="500" fill="#85838F">Headline laid over imagery (lock-screen hook). Two lines max.</text>
+<circle cx="1404.4" cy="446.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M1404.4 442.86 A3.8000000000000003 3.8000000000000003 0 0 0 1404.4 450.46Z" fill="#85838F"/><text x="1414.8" y="450" class="sans" font-size="11" font-weight="500" fill="#85838F">Strong inference</text>
+<line x1="64" y1="512" x2="1536" y2="512" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="549.5" class="sans" font-size="30" font-weight="700" letter-spacing="-0.6" fill="#FFFFFF">Your trips</text>
+<text x="1060" y="538" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">h1</text>
+<text x="1060" y="558" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 700 · 30/1.15 · -0.02em · ≤32ch</text>
+<text x="1060" y="576" class="sans" font-size="12" font-weight="500" fill="#85838F">Screen titles. Desktop 40.</text>
+<circle cx="1404.4" cy="534.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1414.8" y="538" class="sans" font-size="11" font-weight="500" fill="#85838F">Reconstruction</text>
+<line x1="64" y1="600" x2="1536" y2="600" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="630.7" class="sans" font-size="22" font-weight="700" letter-spacing="-0.33" fill="#FFFFFF">Because you saved Goa</text>
+<text x="1060" y="626" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">h2</text>
+<text x="1060" y="646" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 700 · 22/1.2 · -0.015em · ≤40ch</text>
+<text x="1060" y="664" class="sans" font-size="12" font-weight="500" fill="#85838F">Section headers, rail titles.</text>
+<circle cx="1404.4" cy="622.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1414.8" y="626" class="sans" font-size="11" font-weight="500" fill="#85838F">Reconstruction</text>
+<line x1="64" y1="688" x2="1536" y2="688" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="714.45" class="sans" font-size="17" font-weight="600" letter-spacing="-0.17" fill="#FFFFFF">The quiet hill towns nobody has told you about</text>
+<text x="1060" y="714" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">h3</text>
+<text x="1060" y="734" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 600 · 17/1.3 · -0.01em · ≤48ch</text>
+<text x="1060" y="752" class="sans" font-size="12" font-weight="500" fill="#85838F">Card titles.</text>
+<circle cx="1404.4" cy="710.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1414.8" y="714" class="sans" font-size="11" font-weight="500" fill="#85838F">Reconstruction</text>
+<line x1="64" y1="776" x2="1536" y2="776" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="802.45" class="sans" font-size="17" font-weight="400" fill="#FFFFFF">A slow itinerary for the city that wakes before you do.</text>
+<text x="1060" y="802" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">body-l</text>
+<text x="1060" y="822" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 400 · 17/1.5 · +0.0em · ≤64ch</text>
+<text x="1060" y="840" class="sans" font-size="12" font-weight="500" fill="#85838F">Article body, onboarding copy.</text>
+<circle cx="1404.4" cy="798.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1414.8" y="802" class="sans" font-size="11" font-weight="500" fill="#85838F">Reconstruction</text>
+<line x1="64" y1="864" x2="1536" y2="864" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="888.75" class="sans" font-size="15" font-weight="400" fill="#FFFFFF">Fares are checked live before you see them, and every rule links to its source.</text>
+<text x="1060" y="890" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">body</text>
+<text x="1060" y="910" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 400 · 15/1.5 · +0.0em · ≤72ch</text>
+<text x="1060" y="928" class="sans" font-size="12" font-weight="500" fill="#85838F">Default body copy.</text>
+<circle cx="1404.4" cy="886.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1414.8" y="890" class="sans" font-size="11" font-weight="500" fill="#85838F">Reconstruction</text>
+<line x1="64" y1="952" x2="1536" y2="952" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="975.05" class="sans" font-size="13" font-weight="400" fill="#FFFFFF">Price includes taxes and our fee. It can change until you book.</text>
+<text x="1060" y="978" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">body-s</text>
+<text x="1060" y="998" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 400 · 13/1.45 · +0.0em · ≤72ch</text>
+<text x="1060" y="1016" class="sans" font-size="12" font-weight="500" fill="#85838F">Descriptions inside cards.</text>
+<circle cx="1404.4" cy="974.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1414.8" y="978" class="sans" font-size="11" font-weight="500" fill="#85838F">Reconstruction</text>
+<line x1="64" y1="1040" x2="1536" y2="1040" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1062.2" class="sans" font-size="12" font-weight="500" fill="#FFFFFF">Photo: original placeholder art</text>
+<text x="1060" y="1066" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">caption</text>
+<text x="1060" y="1086" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 500 · 12/1.35 · +0.0em · ≤60ch</text>
+<text x="1060" y="1104" class="sans" font-size="12" font-weight="500" fill="#85838F">Image credits, helper text.</text>
+<circle cx="1404.4" cy="1062.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1414.8" y="1066" class="sans" font-size="11" font-weight="500" fill="#85838F">Reconstruction</text>
+<line x1="64" y1="1128" x2="1536" y2="1128" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1149.35" class="sans" font-size="11" font-weight="600" letter-spacing="0.88" fill="#FFFFFF">TRAVEL · FOR YOU</text>
+<text x="1060" y="1154" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">label</text>
+<text x="1060" y="1174" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 600 · 11/1.2 · +0.08em · ≤24ch</text>
+<text x="1060" y="1192" class="sans" font-size="12" font-weight="500" fill="#85838F">Kickers and category labels, uppercase.</text>
+<circle cx="1404.4" cy="1150.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M1404.4 1146.86 A3.8000000000000003 3.8000000000000003 0 0 0 1404.4 1154.46Z" fill="#85838F"/><text x="1414.8" y="1154" class="sans" font-size="11" font-weight="500" fill="#85838F">Strong inference</text>
+<line x1="64" y1="1216" x2="1536" y2="1216" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1240.75" class="sans" font-size="15" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Plan a trip</text>
+<text x="1060" y="1242" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">button</text>
+<text x="1060" y="1262" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 600 · 15/1.0 · -0.005em · ≤24ch</text>
+<text x="1060" y="1280" class="sans" font-size="12" font-weight="500" fill="#85838F">Button and chip labels.</text>
+<circle cx="1404.4" cy="1238.66" r="3.8" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1414.8" y="1242" class="sans" font-size="11" font-weight="500" fill="#85838F">Reconstruction</text>
+<line x1="64" y1="1304" x2="1536" y2="1304" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1326.2" class="sans tnum" font-size="12" font-weight="500" letter-spacing="0.12" fill="#FFFFFF">Wake Travel · 4 min · ₹5,842 · 9:41</text>
+<text x="1060" y="1330" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">metadata</text>
+<text x="1060" y="1350" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">Inter 500 · 12/1.3 · +0.01em · ≤48ch</text>
+<text x="1060" y="1368" class="sans" font-size="12" font-weight="500" fill="#85838F">Source · time · price facts, tabular numerals, middle-dot sepa</text>
+<path d="M1404.4 1322.26 L1408.8 1326.66 L1404.4 1331.06 L1400 1326.66Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1414.8" y="1330" class="sans" font-size="11" font-weight="500" fill="#85838F">Original interpretation</text>
+<line x1="64" y1="1392" x2="1536" y2="1392" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+</svg>

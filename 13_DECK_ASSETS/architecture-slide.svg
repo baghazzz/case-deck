@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="t d">
+<title id="t">Architecture</title>
+<desc id="d">How the system is layered · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect id="background" width="1920" height="1080" fill="#0C0C10"/>
+<text x="120" y="132" class="sans" font-size="16" font-weight="600" letter-spacing="1.28" fill="#FF0049">SYSTEM ARCHITECTURE</text>
+<text x="1800" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">—</text>
+<text x="120" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">Wake · A Glance-inspired design system</text>
+<text x="120" y="236" class="disp" font-size="88" font-weight="400" letter-spacing="-0.44" fill="#FFFFFF">One logic, top to bottom</text>
+<text x="120" y="334" class="sans" font-size="24" font-weight="400" fill="#B8B8C2">Each layer only uses the layer above it. Change a token and every</text><text x="120" y="367.6" class="sans" font-size="24" font-weight="400" fill="#B8B8C2">component, screen, slide and page follows.</text>
+<rect x="1120" y="150" width="560" height="80" rx="16" fill="#3A0716"/>
+<text x="1148" y="200" class="sans" font-size="24" font-weight="600" letter-spacing="-0.24" fill="#FFFFFF">Principles</text>
+<text x="1652" y="200" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">00</text>
+<g transform="translate(1388 230) scale(1.0)" fill="none" stroke="#85838F" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" data-icon="chevron-down"><path d="M5.5 9.5 12 16l6.5-6.5"/></g>
+<rect x="1094" y="246" width="586" height="80" rx="16" fill="#251A2E"/>
+<text x="1122" y="296" class="sans" font-size="24" font-weight="600" letter-spacing="-0.24" fill="#FFFFFF">Design tokens</text>
+<text x="1652" y="296" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">01</text>
+<g transform="translate(1375 326) scale(1.0)" fill="none" stroke="#85838F" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" data-icon="chevron-down"><path d="M5.5 9.5 12 16l6.5-6.5"/></g>
+<rect x="1068" y="342" width="612" height="80" rx="16" fill="#16161B"/>
+<text x="1096" y="392" class="sans" font-size="24" font-weight="600" letter-spacing="-0.24" fill="#FFFFFF">Typography + colour</text>
+<text x="1652" y="392" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">02</text>
+<g transform="translate(1362 422) scale(1.0)" fill="none" stroke="#85838F" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" data-icon="chevron-down"><path d="M5.5 9.5 12 16l6.5-6.5"/></g>
+<rect x="1042" y="438" width="638" height="80" rx="16" fill="#16161B"/>
+<text x="1070" y="488" class="sans" font-size="24" font-weight="600" letter-spacing="-0.24" fill="#FFFFFF">Grid + spacing</text>
+<text x="1652" y="488" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">03</text>
+<g transform="translate(1349 518) scale(1.0)" fill="none" stroke="#85838F" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" data-icon="chevron-down"><path d="M5.5 9.5 12 16l6.5-6.5"/></g>
+<rect x="1016" y="534" width="664" height="80" rx="16" fill="#16161B"/>
+<text x="1044" y="584" class="sans" font-size="24" font-weight="600" letter-spacing="-0.24" fill="#FFFFFF">Components</text>
+<text x="1652" y="584" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">04</text>
+<g transform="translate(1336 614) scale(1.0)" fill="none" stroke="#85838F" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" data-icon="chevron-down"><path d="M5.5 9.5 12 16l6.5-6.5"/></g>
+<rect x="990" y="630" width="690" height="80" rx="16" fill="#16161B"/>
+<text x="1018" y="680" class="sans" font-size="24" font-weight="600" letter-spacing="-0.24" fill="#FFFFFF">Patterns</text>
+<text x="1652" y="680" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">05</text>
+<g transform="translate(1323 710) scale(1.0)" fill="none" stroke="#85838F" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" data-icon="chevron-down"><path d="M5.5 9.5 12 16l6.5-6.5"/></g>
+<rect x="964" y="726" width="716" height="80" rx="16" fill="#16161B"/>
+<text x="992" y="776" class="sans" font-size="24" font-weight="600" letter-spacing="-0.24" fill="#FFFFFF">Screens</text>
+<text x="1652" y="776" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">06</text>
+<g transform="translate(1310 806) scale(1.0)" fill="none" stroke="#85838F" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" data-icon="chevron-down"><path d="M5.5 9.5 12 16l6.5-6.5"/></g>
+<rect x="938" y="822" width="742" height="80" rx="16" fill="#16161B"/>
+<text x="966" y="872" class="sans" font-size="24" font-weight="600" letter-spacing="-0.24" fill="#FFFFFF">Implementation</text>
+<text x="1652" y="872" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">07</text>
+<g transform="translate(1297 902) scale(1.0)" fill="none" stroke="#85838F" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" data-icon="chevron-down"><path d="M5.5 9.5 12 16l6.5-6.5"/></g>
+<rect x="912" y="918" width="768" height="80" rx="16" fill="#16161B"/>
+<text x="940" y="968" class="sans" font-size="24" font-weight="600" letter-spacing="-0.24" fill="#FFFFFF">Deck + PDF</text>
+<text x="1652" y="968" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">08</text>
+</svg>

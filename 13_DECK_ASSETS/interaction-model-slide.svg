@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="t d">
+<title id="t">Interaction model</title>
+<desc id="d">Discovery flow and motion · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect id="background" width="1920" height="1080" fill="#0C0C10"/>
+<text x="120" y="132" class="sans" font-size="16" font-weight="600" letter-spacing="1.28" fill="#FF0049">INTERACTION MODEL</text>
+<text x="1800" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">10</text>
+<text x="120" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">Wake · A Glance-inspired design system</text>
+<text x="120" y="236" class="disp" font-size="88" font-weight="400" letter-spacing="-0.44" fill="#FFFFFF">Glance, scan, commit</text>
+<text x="120" y="334" class="sans" font-size="24" font-weight="400" fill="#B8B8C2">Commitment rises one step at a time. Each step is reversible until</text><text x="120" y="367.6" class="sans" font-size="24" font-weight="400" fill="#B8B8C2">money or data changes hands.</text>
+<rect x="120" y="520" width="316" height="200" rx="20" fill="#16161B"/>
+<text x="148" y="572" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">01</text>
+<text x="148" y="620" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">Open</text>
+<text x="148" y="666" class="sans" font-size="17" font-weight="400" fill="#B8B8C2">Wake the phone: one story</text>
+<rect x="464" y="520" width="316" height="200" rx="20" fill="#16161B"/>
+<text x="492" y="572" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">02</text>
+<text x="492" y="620" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">Scan</text>
+<text x="492" y="666" class="sans" font-size="17" font-weight="400" fill="#B8B8C2">Swipe the stream, tabs by topic</text>
+<rect x="808" y="520" width="316" height="200" rx="20" fill="#16161B"/>
+<text x="836" y="572" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">03</text>
+<text x="836" y="620" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">Discover</text>
+<text x="836" y="666" class="sans" font-size="17" font-weight="400" fill="#B8B8C2">A reason rail catches you</text>
+<rect x="1152" y="520" width="316" height="200" rx="20" fill="#3A0716"/>
+<text x="1180" y="572" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">04</text>
+<text x="1180" y="620" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">Engage</text>
+<text x="1180" y="666" class="sans" font-size="17" font-weight="400" fill="#B8B8C2">Tap: media grows into detail</text>
+<rect x="1496" y="520" width="316" height="200" rx="20" fill="#16161B"/>
+<text x="1524" y="572" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">05</text>
+<text x="1524" y="620" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FFFFFF">Deep dive</text>
+<text x="1524" y="666" class="sans" font-size="17" font-weight="400" fill="#B8B8C2">Plan, save, share, book</text>
+<text x="120" y="800" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Tap / press</text>
+<text x="310" y="800" class="sans" font-size="18" font-weight="500" letter-spacing="0.18" fill="#FF4D7D">100ms</text>
+<text x="450" y="800" class="sans" font-size="17" font-weight="400" fill="#85838F">scale .97</text>
+<text x="690" y="800" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Card → detail</text>
+<text x="880" y="800" class="sans" font-size="18" font-weight="500" letter-spacing="0.18" fill="#FF4D7D">360ms</text>
+<text x="1020" y="800" class="sans" font-size="17" font-weight="400" fill="#85838F">shared media, emphasized</text>
+<text x="1260" y="800" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Sheet</text>
+<text x="1450" y="800" class="sans" font-size="18" font-weight="500" letter-spacing="0.18" fill="#FF4D7D">360 / 240ms</text>
+<text x="1590" y="800" class="sans" font-size="17" font-weight="400" fill="#85838F">slide + scrim .48</text>
+<text x="120" y="870" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Carousel</text>
+<text x="310" y="870" class="sans" font-size="18" font-weight="500" letter-spacing="0.18" fill="#FF4D7D">360ms</text>
+<text x="450" y="870" class="sans" font-size="17" font-weight="400" fill="#85838F">snap to margin</text>
+<text x="690" y="870" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Story</text>
+<text x="880" y="870" class="sans" font-size="18" font-weight="500" letter-spacing="0.18" fill="#FF4D7D">5s</text>
+<text x="1020" y="870" class="sans" font-size="17" font-weight="400" fill="#85838F">auto-advance, hold to pause</text>
+<text x="1260" y="870" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Like</text>
+<text x="1450" y="870" class="sans" font-size="18" font-weight="500" letter-spacing="0.18" fill="#FF4D7D">360ms</text>
+<text x="1590" y="870" class="sans" font-size="17" font-weight="400" fill="#85838F">the only spring</text>
+</svg>

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="t d">
+<title id="t">Design system summary</title>
+<desc id="d">System at a glance · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect id="background" width="1920" height="1080" fill="#0C0C10"/>
+<text x="120" y="132" class="sans" font-size="16" font-weight="600" letter-spacing="1.28" fill="#FF0049">DESIGN SYSTEM SUMMARY</text>
+<text x="1800" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">13</text>
+<text x="120" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">Wake · A Glance-inspired design system</text>
+<text x="120" y="236" class="disp" font-size="88" font-weight="400" letter-spacing="-0.44" fill="#FFFFFF">The system on one page</text>
+<text x="120" y="460" class="disp" font-size="110" font-weight="400" letter-spacing="-0.55" fill="#FFFFFF">10</text>
+<text x="120" y="504" class="sans" font-size="22" font-weight="400" fill="#B8B8C2">principles</text>
+<text x="550" y="460" class="disp" font-size="110" font-weight="400" letter-spacing="-0.55" fill="#FFFFFF">24</text>
+<text x="550" y="504" class="sans" font-size="22" font-weight="400" fill="#B8B8C2">colour roles × 2 themes</text>
+<text x="980" y="460" class="disp" font-size="110" font-weight="400" letter-spacing="-0.55" fill="#FFFFFF">13</text>
+<text x="980" y="504" class="sans" font-size="22" font-weight="400" fill="#B8B8C2">type styles, 2 families</text>
+<text x="1410" y="460" class="disp" font-size="110" font-weight="400" letter-spacing="-0.55" fill="#FFFFFF">13</text>
+<text x="1410" y="504" class="sans" font-size="22" font-weight="400" fill="#B8B8C2">space steps, 4px base</text>
+<text x="120" y="670" class="disp" font-size="110" font-weight="400" letter-spacing="-0.55" fill="#FFFFFF">50</text>
+<text x="120" y="714" class="sans" font-size="22" font-weight="400" fill="#B8B8C2">icons on a 24 grid</text>
+<text x="550" y="670" class="disp" font-size="110" font-weight="400" letter-spacing="-0.55" fill="#FFFFFF">6</text>
+<text x="550" y="714" class="sans" font-size="22" font-weight="400" fill="#B8B8C2">card anatomies</text>
+<text x="980" y="670" class="disp" font-size="110" font-weight="400" letter-spacing="-0.55" fill="#FFFFFF">16</text>
+<text x="980" y="714" class="sans" font-size="22" font-weight="400" fill="#B8B8C2">screen templates</text>
+<text x="1410" y="670" class="disp" font-size="110" font-weight="400" letter-spacing="-0.55" fill="#FFFFFF">15</text>
+<text x="1410" y="714" class="sans" font-size="22" font-weight="400" fill="#B8B8C2">motion specs</text>
+<line x1="120" y1="830" x2="1800" y2="830" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="120" y="900" class="disp" font-size="48" font-weight="400" letter-spacing="-0.24" font-style="italic" fill="#FFFFFF">Fetch what changes. Cite what rules. Show why. Let the image do the rest.</text>
+</svg>

@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="t d">
+<title id="t">Color system</title>
+<desc id="d">Palette and meaning · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect id="background" width="1920" height="1080" fill="#0C0C10"/>
+<text x="120" y="132" class="sans" font-size="16" font-weight="600" letter-spacing="1.28" fill="#FF0049">COLOUR SYSTEM</text>
+<text x="1800" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">04</text>
+<text x="120" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">Wake · A Glance-inspired design system</text>
+<text x="120" y="236" class="disp" font-size="88" font-weight="400" letter-spacing="-0.44" fill="#FFFFFF">Red means now. Lavender means you.</text>
+<text x="120" y="334" class="sans" font-size="24" font-weight="400" fill="#B8B8C2">#FF0049 and #DDBEF0 are observed brand hues. Everything else is</text><text x="120" y="367.6" class="sans" font-size="24" font-weight="400" fill="#B8B8C2">reconstructed around one idea: colour is a job, not a mood.</text>
+<rect x="120" y="560" width="316" height="130" rx="20" fill="#FF0049" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="120" y="726" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Signal</text>
+<text x="120" y="754" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#FF0049 · Action · live</text>
+<rect x="460" y="560" width="316" height="130" rx="20" fill="#E6003F" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="460" y="726" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Signal action</text>
+<text x="460" y="754" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#E6003F · Buttons (4.73:1)</text>
+<rect x="800" y="560" width="316" height="130" rx="20" fill="#DDBEF0" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="800" y="726" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Iris</text>
+<text x="800" y="754" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#DDBEF0 · You · AI · why</text>
+<rect x="1140" y="560" width="316" height="130" rx="20" fill="#251A2E" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="1140" y="726" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Iris subtle</text>
+<text x="1140" y="754" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#251A2E · Reason grounds</text>
+<rect x="1480" y="560" width="316" height="130" rx="20" fill="#000000" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="1480" y="726" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Stage</text>
+<text x="1480" y="754" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#000000 · Media ground</text>
+<rect x="120" y="790" width="316" height="130" rx="20" fill="#16161B" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="120" y="956" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Surface</text>
+<text x="120" y="984" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#16161B · Cards</text>
+<rect x="460" y="790" width="316" height="130" rx="20" fill="#B8B8C2" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="460" y="956" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Text 2</text>
+<text x="460" y="984" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#B8B8C2 · Supporting</text>
+<rect x="800" y="790" width="316" height="130" rx="20" fill="#2FD08A" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="800" y="956" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Fresh</text>
+<text x="800" y="984" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#2FD08A · Live · verified</text>
+<rect x="1140" y="790" width="316" height="130" rx="20" fill="#FFB020" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="1140" y="956" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Changed</text>
+<text x="1140" y="984" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#FFB020 · Cached · moved</text>
+<rect x="1480" y="790" width="316" height="130" rx="20" fill="#FF6B3D" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<text x="1480" y="956" class="sans" font-size="22" font-weight="600" letter-spacing="-0.22" fill="#FFFFFF">Error</text>
+<text x="1480" y="984" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">#FF6B3D · Failures + icon</text>
+</svg>

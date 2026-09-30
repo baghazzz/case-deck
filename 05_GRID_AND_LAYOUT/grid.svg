@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1320" viewBox="0 0 1600 1320" role="img" aria-labelledby="t d">
+<title id="t">Grid system</title>
+<desc id="d">Four columns on phones, eight on tablets, twelve on desktop. Media breaks the grid on purpose: full-bleed on mobile, edge-to-edge rails that peek past the margin. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect id="background" width="1600" height="1320" fill="#0C0C10"/>
+<text x="64" y="84" class="sans" font-size="12" font-weight="600" letter-spacing="0.96" fill="#FF0049">FOUNDATIONS · 05</text>
+<text x="64" y="148" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" fill="#FFFFFF">Grid</text>
+<text x="1016" y="76" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">Four columns on phones, eight on tablets, twelve on desktop. Media</text><text x="1016" y="98.5" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">breaks the grid on purpose: full-bleed on mobile, edge-to-edge rails that</text><text x="1016" y="121" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">peek past the margin.</text>
+<line x1="64" y1="184" x2="1536" y2="184" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<line x1="64" y1="1264" x2="1536" y2="1264" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1294" class="sans" font-size="12" font-weight="500" fill="#85838F">Wake · A Glance-inspired design system · v1.0</text>
+<path d="M1399.65 1285.55 L1404.45 1290.35 L1399.65 1295.15 L1394.85 1290.35Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1410.45" y="1294" class="sans" font-size="12" font-weight="500" fill="#85838F">Original interpretation</text>
+<circle cx="1276.67" cy="1290.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1287.47" y="1294" class="sans" font-size="12" font-weight="500" fill="#85838F">Reconstruction</text>
+<circle cx="1145.13" cy="1290.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M1145.13 1286.15 A4.200000000000001 4.200000000000001 0 0 0 1145.13 1294.55Z" fill="#85838F"/><text x="1155.93" y="1294" class="sans" font-size="12" font-weight="500" fill="#85838F">Strong inference</text>
+<circle cx="1053.03" cy="1290.35" r="4.8" fill="#85838F"/><text x="1063.83" y="1294" class="sans" font-size="12" font-weight="500" fill="#85838F">Observed</text>
+<rect x="64" y="250" width="390" height="760" rx="16" fill="#16161B" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<rect x="80" y="250" width="80.5" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="172.5" y="250" width="80.5" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="265" y="250" width="80.5" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="357.5" y="250" width="80.5" height="760" fill="#FF0049" opacity="0.12"/>
+<text x="64" y="234" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Mobile · 390</text>
+<rect x="520" y="250" width="600" height="760" rx="16" fill="#16161B" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<rect x="544" y="250" width="55" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="615" y="250" width="55" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="686" y="250" width="55" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="757" y="250" width="55" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="828" y="250" width="55" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="899" y="250" width="55" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="970" y="250" width="55" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1041" y="250" width="55" height="760" fill="#FF0049" opacity="0.12"/>
+<text x="520" y="234" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Tablet · 820</text>
+<rect x="1180" y="250" width="356" height="760" rx="16" fill="#16161B" stroke="rgba(255, 255, 255, 0.12)" stroke-width="1"/>
+<rect x="1188.32" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1217.12" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1245.92" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1274.72" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1303.52" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1332.32" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1361.12" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1389.92" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1418.72" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1447.52" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1476.32" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<rect x="1505.12" y="250" width="22.56" height="760" fill="#FF0049" opacity="0.12"/>
+<text x="1180" y="234" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Desktop · 1440 (scaled 0.26)</text>
+<text x="64" y="1080" class="sans" font-size="12" font-weight="600" fill="#85838F">Breakpoint</text>
+<text x="280" y="1080" class="sans" font-size="12" font-weight="600" fill="#85838F">Range</text>
+<text x="500" y="1080" class="sans" font-size="12" font-weight="600" fill="#85838F">Columns</text>
+<text x="680" y="1080" class="sans" font-size="12" font-weight="600" fill="#85838F">Margin</text>
+<text x="860" y="1080" class="sans" font-size="12" font-weight="600" fill="#85838F">Gutter</text>
+<text x="1040" y="1080" class="sans" font-size="12" font-weight="600" fill="#85838F">Content width</text>
+<text x="64" y="1116" class="sans" font-size="15" font-weight="600" fill="#FFFFFF">mobile</text>
+<text x="280" y="1116" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">0–599px</text>
+<text x="500" y="1116" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">4</text>
+<text x="680" y="1116" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">16px</text>
+<text x="860" y="1116" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">12px</text>
+<text x="1040" y="1116" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">fluid</text>
+<line x1="64" y1="1130" x2="1536" y2="1130" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1152" class="sans" font-size="15" font-weight="600" fill="#FFFFFF">tablet</text>
+<text x="280" y="1152" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">600–1023px</text>
+<text x="500" y="1152" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">8</text>
+<text x="680" y="1152" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">24px</text>
+<text x="860" y="1152" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">16px</text>
+<text x="1040" y="1152" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">fluid</text>
+<line x1="64" y1="1166" x2="1536" y2="1166" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1188" class="sans" font-size="15" font-weight="600" fill="#FFFFFF">desktop</text>
+<text x="280" y="1188" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">1024–1439px</text>
+<text x="500" y="1188" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">12</text>
+<text x="680" y="1188" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">32px</text>
+<text x="860" y="1188" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">24px</text>
+<text x="1040" y="1188" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">1280 max</text>
+<line x1="64" y1="1202" x2="1536" y2="1202" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="1224" class="sans" font-size="15" font-weight="600" fill="#FFFFFF">wide</text>
+<text x="280" y="1224" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">1440–∞px</text>
+<text x="500" y="1224" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">12</text>
+<text x="680" y="1224" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">48px</text>
+<text x="860" y="1224" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">24px</text>
+<text x="1040" y="1224" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">1360 max</text>
+<line x1="64" y1="1238" x2="1536" y2="1238" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+</svg>

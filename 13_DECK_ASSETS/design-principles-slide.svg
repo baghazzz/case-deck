@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="t d">
+<title id="t">Design principles</title>
+<desc id="d">Ten principles · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect id="background" width="1920" height="1080" fill="#0C0C10"/>
+<text x="120" y="132" class="sans" font-size="16" font-weight="600" letter-spacing="1.28" fill="#FF0049">DESIGN PRINCIPLES</text>
+<text x="1800" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" text-anchor="end" fill="#85838F">11</text>
+<text x="120" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">Wake · A Glance-inspired design system</text>
+<text x="120" y="236" class="disp" font-size="88" font-weight="400" letter-spacing="-0.44" fill="#FFFFFF">Ten principles</text>
+<text x="120" y="360" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">01</text>
+<text x="200" y="356" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">Wake-first</text>
+<text x="200" y="390" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">Every surface must deliver its value in the first two seconds, before a tap and</text><text x="200" y="417" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">ideally before unlock.</text>
+<circle cx="353.21" cy="348.68" r="7" fill="#85838F"/>
+<text x="970" y="360" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">02</text>
+<text x="1050" y="356" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">Media is the layout</text>
+<text x="1050" y="390" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">Images and video are structural elements, not decoration around text.</text>
+<circle cx="1303.96" cy="348.68" r="7" fill="#85838F"/>
+<text x="120" y="496" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">03</text>
+<text x="200" y="492" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">One hook, one action</text>
+<text x="200" y="526" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">A surface makes one promise and offers one obvious next step.</text>
+<circle cx="484.04" cy="484.68" r="6.4" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M484.04 478.28 A6.4 6.4 0 0 0 484.04 491.08Z" fill="#85838F"/>
+<text x="970" y="496" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">04</text>
+<text x="1050" y="492" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">Red means now, lavender means you</text>
+<text x="1050" y="526" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">Colour carries meaning: signal red for action and live, iris lavender for</text><text x="1050" y="553" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">personalisation.</text>
+<circle cx="1528.85" cy="484.68" r="6.4" fill="none" stroke="#85838F" stroke-width="1.2"/>
+<text x="120" y="632" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">05</text>
+<text x="200" y="628" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">Starring you</text>
+<text x="200" y="662" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">Personalisation is shown in the content itself, not described in settings.</text>
+<circle cx="374.44" cy="620.68" r="7" fill="#85838F"/>
+<text x="970" y="632" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">06</text>
+<text x="1050" y="628" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">Discovery over navigation</text>
+<text x="1050" y="662" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">People find things by scrolling a tuned stream, not by opening menus.</text>
+<circle cx="1393.62" cy="620.68" r="7" fill="#85838F"/>
+<text x="120" y="768" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">07</text>
+<text x="200" y="764" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">Context is a primitive</text>
+<text x="200" y="798" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">Time, place, weather and occasion are inputs to layout, not afterthoughts.</text>
+<circle cx="482.11" cy="756.68" r="7" fill="#85838F"/>
+<text x="970" y="768" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">08</text>
+<text x="1050" y="764" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">Dense, not cluttered</text>
+<text x="1050" y="798" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">Carry a lot of content with strong hierarchy and few visual devices.</text>
+<circle cx="1322.08" cy="756.68" r="6.4" fill="none" stroke="#85838F" stroke-width="1.2"/>
+<text x="120" y="904" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">09</text>
+<text x="200" y="900" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">Editorial voice</text>
+<text x="200" y="934" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">Content is written and set like a magazine: a serif hook, short sentences, specific</text><text x="200" y="961" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">facts.</text>
+<path d="M396.4 885.68 L403.4 892.68 L396.4 899.68 L389.4 892.68Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="970" y="904" class="disp" font-size="40" font-weight="400" letter-spacing="-0.2" fill="#FF0049">10</text>
+<text x="1050" y="900" class="sans" font-size="26" font-weight="600" letter-spacing="-0.26" fill="#FFFFFF">Show your sources</text>
+<text x="1050" y="934" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">Anything that changes or has consequences shows where it came from and</text><text x="1050" y="961" class="sans" font-size="18" font-weight="400" fill="#B8B8C2">when.</text>
+<path d="M1309.51 885.68 L1316.51 892.68 L1309.51 899.68 L1302.51 892.68Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

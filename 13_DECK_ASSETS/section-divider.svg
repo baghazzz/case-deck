@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="t d">
+<title id="t">Section divider</title>
+<desc id="d">Section divider template · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c59"><rect x="960" y="0" width="960" height="1080" rx="0"/></clipPath><radialGradient id="r60" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#DDBEF0" stop-opacity="0.9"/><stop offset="1" stop-color="#DDBEF0" stop-opacity="0"/></radialGradient><radialGradient id="r61" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FF0049" stop-opacity="0.7"/><stop offset="1" stop-color="#FF0049" stop-opacity="0"/></radialGradient><radialGradient id="r62" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#5AA9FF" stop-opacity="0.45"/><stop offset="1" stop-color="#5AA9FF" stop-opacity="0"/></radialGradient></defs>
+<rect id="background" width="1920" height="1080" fill="#0C0C10"/>
+<text x="120" y="1020" class="sans" font-size="16" font-weight="500" letter-spacing="0.16" fill="#85838F">Wake · A Glance-inspired design system</text>
+<g clip-path="url(#c59)" data-media="iris"><rect x="960" y="0" width="960" height="1080" fill="#120E1A"/><circle cx="1248" cy="378" r="528" fill="url(#r60)"/><circle cx="1680" cy="756" r="480" fill="url(#r61)"/><circle cx="1728" cy="216" r="288" fill="url(#r62)"/></g>
+<text x="120" y="520" class="disp" font-size="220" font-weight="400" letter-spacing="-1.1" fill="#FF0049">02</text>
+<text x="120" y="660" class="disp" font-size="110" font-weight="400" letter-spacing="-0.55" fill="#FFFFFF">Components</text>
+<text x="120" y="730" class="sans" font-size="26" font-weight="400" fill="#B8B8C2">Cards, modules, navigation and overlays</text>
+</svg>

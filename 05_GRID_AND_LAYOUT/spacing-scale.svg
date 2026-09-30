@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000" role="img" aria-labelledby="t d">
+<title id="t">Spacing scale</title>
+<desc id="d">A 4px base with an 8px rhythm. Odd steps (12, 20) exist for type-driven gaps inside cards; everything structural lands on 8. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect id="background" width="1600" height="1000" fill="#0C0C10"/>
+<text x="64" y="84" class="sans" font-size="12" font-weight="600" letter-spacing="0.96" fill="#FF0049">FOUNDATIONS · 05</text>
+<text x="64" y="148" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" fill="#FFFFFF">Space</text>
+<text x="1016" y="76" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">A 4px base with an 8px rhythm. Odd steps (12, 20) exist for type-driven</text><text x="1016" y="98.5" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">gaps inside cards; everything structural lands on 8.</text>
+<line x1="64" y1="184" x2="1536" y2="184" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<line x1="64" y1="944" x2="1536" y2="944" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="974" class="sans" font-size="12" font-weight="500" fill="#85838F">Wake · A Glance-inspired design system · v1.0</text>
+<path d="M1399.65 965.55 L1404.45 970.35 L1399.65 975.15 L1394.85 970.35Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1410.45" y="974" class="sans" font-size="12" font-weight="500" fill="#85838F">Original interpretation</text>
+<circle cx="1276.67" cy="970.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1287.47" y="974" class="sans" font-size="12" font-weight="500" fill="#85838F">Reconstruction</text>
+<circle cx="1145.13" cy="970.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M1145.13 966.15 A4.200000000000001 4.200000000000001 0 0 0 1145.13 974.55Z" fill="#85838F"/><text x="1155.93" y="974" class="sans" font-size="12" font-weight="500" fill="#85838F">Strong inference</text>
+<circle cx="1053.03" cy="970.35" r="4.8" fill="#85838F"/><text x="1063.83" y="974" class="sans" font-size="12" font-weight="500" fill="#85838F">Observed</text>
+<text x="64" y="266" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-1</text>
+<text x="200" y="266" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">4px</text>
+<rect x="300" y="250" width="16" height="22" rx="2" fill="#FF0049"/>
+<text x="332" y="266" class="sans" font-size="12" font-weight="500" fill="#85838F">icon-to-label gap, dot separators</text>
+<text x="64" y="322" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-2</text>
+<text x="200" y="322" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">8px</text>
+<rect x="300" y="306" width="32" height="22" rx="2" fill="#FF0049"/>
+<text x="348" y="322" class="sans" font-size="12" font-weight="500" fill="#85838F">chip padding-y, inline gaps</text>
+<text x="64" y="378" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-3</text>
+<text x="200" y="378" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">12px</text>
+<rect x="300" y="362" width="48" height="22" rx="2" fill="#FF0049"/>
+<text x="364" y="378" class="sans" font-size="12" font-weight="500" fill="#85838F">card inner gap, chip padding-x</text>
+<text x="64" y="434" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-4</text>
+<text x="200" y="434" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">16px</text>
+<rect x="300" y="418" width="64" height="22" rx="2" fill="#FF0049"/>
+<text x="380" y="434" class="sans" font-size="12" font-weight="500" fill="#85838F">screen margin (mobile), card padding</text>
+<text x="64" y="490" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-5</text>
+<text x="200" y="490" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">20px</text>
+<rect x="300" y="474" width="80" height="22" rx="2" fill="#FF0049"/>
+<text x="396" y="490" class="sans" font-size="12" font-weight="500" fill="#85838F">card padding (large cards)</text>
+<text x="64" y="546" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-6</text>
+<text x="200" y="546" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">24px</text>
+<rect x="300" y="530" width="96" height="22" rx="2" fill="#FF0049"/>
+<text x="412" y="546" class="sans" font-size="12" font-weight="500" fill="#85838F">gap between modules inside a section</text>
+<text x="64" y="602" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-7</text>
+<text x="200" y="602" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">32px</text>
+<rect x="300" y="586" width="128" height="22" rx="2" fill="#FF0049"/>
+<text x="444" y="602" class="sans" font-size="12" font-weight="500" fill="#85838F">section spacing (mobile)</text>
+<text x="64" y="658" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-8</text>
+<text x="200" y="658" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">40px</text>
+<rect x="300" y="642" width="160" height="22" rx="2" fill="#FF0049"/>
+<text x="476" y="658" class="sans" font-size="12" font-weight="500" fill="#85838F">section spacing (tablet)</text>
+<text x="64" y="714" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-9</text>
+<text x="200" y="714" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">48px</text>
+<rect x="300" y="698" width="192" height="22" rx="2" fill="#FF0049"/>
+<text x="508" y="714" class="sans" font-size="12" font-weight="500" fill="#85838F">section spacing (desktop)</text>
+<text x="64" y="770" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-10</text>
+<text x="200" y="770" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">64px</text>
+<rect x="300" y="754" width="256" height="22" rx="2" fill="#FF0049"/>
+<text x="572" y="770" class="sans" font-size="12" font-weight="500" fill="#85838F">hero padding (desktop)</text>
+<text x="64" y="826" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-11</text>
+<text x="200" y="826" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">80px</text>
+<rect x="300" y="810" width="320" height="22" rx="2" fill="#FF0049"/>
+<text x="636" y="826" class="sans" font-size="12" font-weight="500" fill="#85838F">page top/bottom (desktop)</text>
+<text x="64" y="882" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">space-12</text>
+<text x="200" y="882" class="sans" font-size="12" font-weight="500" letter-spacing="0.12" fill="#B8B8C2">96px</text>
+<rect x="300" y="866" width="384" height="22" rx="2" fill="#FF0049"/>
+<text x="700" y="882" class="sans" font-size="12" font-weight="500" fill="#85838F">deck and marketing sections</text>
+</svg>
