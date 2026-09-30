@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="120" viewBox="0 0 320 120" role="img" aria-labelledby="t d">
+<title id="t">Partner logo slot</title>
+<desc id="d">Placeholder slot. Place a properly licensed partner or client mark here; the Glance logo is a trademark and is not a primitive of this system. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect x="1" y="1" width="318" height="118" rx="12" fill="none" stroke="#85838F" stroke-width="1.5" stroke-dasharray="6 6"/>
+<text x="160" y="56" class="sans" font-size="15" font-weight="600" letter-spacing="-0.07" text-anchor="middle" fill="#85838F">Partner / client mark</text>
+<text x="160" y="80" class="sans" font-size="12" font-weight="500" text-anchor="middle" fill="#85838F">use licensed asset only</text>
+</svg>

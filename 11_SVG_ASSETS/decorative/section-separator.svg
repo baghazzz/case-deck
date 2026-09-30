@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="40" viewBox="0 0 600 40" role="img" aria-labelledby="t d">
+<title id="t">Section separator</title>
+<desc id="d">Hairline with a signal dot, used between deck sections · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<line x1="0" y1="20" x2="280" y2="20" stroke="#FFFFFF" stroke-width="1" stroke-linecap="butt" opacity="0.16"/>
+<circle cx="300" cy="20" r="4" fill="#FF0049"/>
+<line x1="320" y1="20" x2="600" y2="20" stroke="#FFFFFF" stroke-width="1" stroke-linecap="butt" opacity="0.16"/>
+</svg>

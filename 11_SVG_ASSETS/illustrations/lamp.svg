@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500" role="img" aria-labelledby="t d">
+<title id="t">Placeholder image: lamp</title>
+<desc id="d">Original placeholder art (lamp), 4:5. Replace with licensed photography in production. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c171"><rect x="0" y="0" width="400" height="500" rx="0"/></clipPath></defs>
+<g clip-path="url(#c171)" data-media="lamp"><rect x="0" y="0" width="400" height="500" fill="#F1EEEA"/><ellipse cx="200" cy="410" rx="120" ry="17.5" fill="#000" opacity=".12"/><path d="M144.0 200.0 L176.0 90.0 H224.00000000000003 L256.0 200.0Z" fill="#DDBEF0"/><rect x="196" y="200" width="8" height="180" fill="#2B2230"/><rect x="160" y="380" width="80" height="20" rx="3" fill="#2B2230"/></g>
+</svg>

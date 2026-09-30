@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-labelledby="t d">
+<title id="t">wake symbol</title>
+<desc id="d">Original placeholder app symbol · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect x="0" y="0" width="96" height="96" rx="24" fill="#0C0C10"/>
+<text x="48" y="64" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" font-style="italic" text-anchor="middle" fill="#FFFFFF">w</text>
+<circle cx="70" cy="32" r="6" fill="#FF0049"/>
+</svg>

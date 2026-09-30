@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Card C anatomy</title>
+<desc id="d">Reconstruction based on news-list patterns in Glance's lock-screen news and trending modules. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c129"><rect x="180" y="240" width="72" height="72" rx="12"/></clipPath><linearGradient id="g130" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1D2B3A"/><stop offset="1" stop-color="#3C5470"/></linearGradient></defs>
+<rect id="background" width="1600" height="900" fill="#0C0C10"/>
+<text x="64" y="84" class="sans" font-size="12" font-weight="600" letter-spacing="0.96" fill="#FF0049">CARDS · CARD C · ANATOMY</text>
+<text x="64" y="148" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" fill="#FFFFFF">Compact content card: anatomy</text>
+<text x="1016" y="76" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">Reconstruction based on news-list patterns in Glance's lock-screen</text><text x="1016" y="98.5" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">news and trending modules.</text>
+<line x1="64" y1="184" x2="1536" y2="184" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<line x1="64" y1="844" x2="1536" y2="844" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Wake · A Glance-inspired design system · v1.0</text>
+<path d="M1399.65 865.55 L1404.45 870.35 L1399.65 875.15 L1394.85 870.35Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1410.45" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Original interpretation</text>
+<circle cx="1276.67" cy="870.35" r="4.2" fill="none" stroke="#FFFFFF" stroke-width="1.2"/><text x="1287.47" y="874" class="sans" font-size="12" font-weight="500" fill="#FFFFFF">Reconstruction</text>
+<circle cx="1145.13" cy="870.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M1145.13 866.15 A4.200000000000001 4.200000000000001 0 0 0 1145.13 874.55Z" fill="#85838F"/><text x="1155.93" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Strong inference</text>
+<circle cx="1053.03" cy="870.35" r="4.8" fill="#85838F"/><text x="1063.83" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Observed</text>
+<g id="card-compact"><g clip-path="url(#c129)" data-media="news"><rect x="180" y="240" width="72" height="72" fill="url(#g130)"/><rect x="188.64" y="258" width="21.6" height="36" fill="#0F1824" opacity="0.8"/><rect x="213.12" y="252.96" width="14.4" height="43.2" fill="#0F1824" opacity="0.7"/><rect x="230.4" y="263.04" width="12.96" height="32.4" fill="#0F1824" opacity="0.85"/><rect x="180" y="296.16" width="72" height="15.84" fill="#0A1119"/><circle cx="220.32" cy="284.64" r="3.6" fill="#FF0049" opacity="0.85"/></g><text x="266" y="258" class="sans" font-size="15" font-weight="600" fill="#FFFFFF">Metro line 3 opens early for</text><text x="266" y="278.25" class="sans" font-size="15" font-weight="600" fill="#FFFFFF">festival week</text><text x="266" y="300.5" class="sans tnum" font-size="12" font-weight="500" letter-spacing="0.12" fill="#85838F">City Desk · 12 min ago</text><g transform="translate(516 265) scale(0.9167)" fill="none" stroke="#B8B8C2" stroke-width="1.909" stroke-linecap="round" stroke-linejoin="round" data-icon="bookmark"><path d="M7 3.5h10a1.5 1.5 0 0 1 1.5 1.5v15.5L12 16l-6.5 4.5V5A1.5 1.5 0 0 1 7 3.5z"/></g></g>
+<line x1="360" y1="260" x2="746" y2="266" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="360" cy="260" r="4" fill="#FF0049"/>
+<circle cx="760" cy="266" r="11" fill="#FF0049"/>
+<text x="760" y="270" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">1</text>
+<text x="780" y="270" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Title</text>
+<text x="780" y="288" class="sans" font-size="12" font-weight="500" fill="#85838F">body 15/600, 2 lines</text>
+<line x1="216" y1="276" x2="746" y2="322" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="216" cy="276" r="4" fill="#FF0049"/>
+<circle cx="760" cy="322" r="11" fill="#FF0049"/>
+<text x="760" y="326" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">2</text>
+<text x="780" y="326" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Thumbnail</text>
+<text x="780" y="344" class="sans" font-size="12" font-weight="500" fill="#85838F">72 × 72, radius 12</text>
+<line x1="527" y1="276" x2="746" y2="378" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="527" cy="276" r="4" fill="#FF0049"/>
+<circle cx="760" cy="378" r="11" fill="#FF0049"/>
+<text x="760" y="382" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">3</text>
+<text x="780" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Trailing action</text>
+<text x="780" y="400" class="sans" font-size="12" font-weight="500" fill="#85838F">bookmark 22</text>
+<line x1="320" y1="298" x2="746" y2="434" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="320" cy="298" r="4" fill="#FF0049"/>
+<circle cx="760" cy="434" r="11" fill="#FF0049"/>
+<text x="760" y="438" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">4</text>
+<text x="780" y="438" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Metadata</text>
+<text x="780" y="456" class="sans" font-size="12" font-weight="500" fill="#85838F">source · time ago</text>
+<line x1="180" y1="226" x2="538" y2="226" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="180" y1="221" x2="180" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="538" y1="221" x2="538" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<text x="359" y="218" class="sans" font-size="11" font-weight="500" text-anchor="middle" fill="#DDBEF0">358</text>
+<text x="1160" y="262" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">DIMENSIONS</text>
+<text x="1160" y="280" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">full width × 72 (thumb 72 × 72)</text>
+<text x="1160" y="311.55" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RADIUS</text>
+<text x="1160" y="329.55" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">12 on thumb</text>
+<text x="1160" y="361.1" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">PADDING</text>
+<text x="1160" y="379.1" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">0; 14px gap thumb→text</text>
+<text x="1160" y="410.65" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">IMAGE RATIO</text>
+<text x="1160" y="428.65" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">1:1 thumb</text>
+<text x="1160" y="460.2" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">TYPE</text>
+<text x="1160" y="478.2" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">body 15/600 (2 lines) · metadata 12/500 · optional kicker</text><text x="1160" y="495.75" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">10/600 caps</text>
+<text x="1160" y="527.3" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">METADATA</text>
+<text x="1160" y="545.3" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Source · time ago · (rank metric)</text>
+<text x="1160" y="576.85" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">ACTIONS</text>
+<text x="1160" y="594.85" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Trailing bookmark (22px) or none</text>
+<text x="1160" y="626.4" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">STATES</text>
+<text x="1160" y="644.4" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">default · pressed (row highlight surface) · read (title</text><text x="1160" y="661.95" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">secondary)</text>
+<text x="1160" y="693.5" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RESPONSIVE</text>
+<text x="1160" y="711.5" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Stacks on mobile; two columns on desktop.</text>
+</svg>

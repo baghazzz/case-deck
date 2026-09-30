@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Card B anatomy</title>
+<desc id="d">Media-on-top, text-below cards are strongly inferred from Glance's blog/newsroom and app collections; values reconstructed. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c121"><rect x="180" y="240" width="240" height="160" rx="16"/></clipPath><linearGradient id="g122" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1F2F52"/><stop offset="0.6" stop-color="#7C94BD"/><stop offset="1" stop-color="#D7E1EF"/></linearGradient></defs>
+<rect id="background" width="1600" height="900" fill="#0C0C10"/>
+<text x="64" y="84" class="sans" font-size="12" font-weight="600" letter-spacing="0.96" fill="#FF0049">CARDS · CARD B · ANATOMY</text>
+<text x="64" y="148" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" fill="#FFFFFF">Standard content card: anatomy</text>
+<text x="1016" y="76" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">Media-on-top, text-below cards are strongly inferred from Glance's</text><text x="1016" y="98.5" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">blog/newsroom and app collections; values reconstructed.</text>
+<line x1="64" y1="184" x2="1536" y2="184" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<line x1="64" y1="844" x2="1536" y2="844" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Wake · A Glance-inspired design system · v1.0</text>
+<path d="M1399.65 865.55 L1404.45 870.35 L1399.65 875.15 L1394.85 870.35Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1410.45" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Original interpretation</text>
+<circle cx="1276.67" cy="870.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1287.47" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Reconstruction</text>
+<circle cx="1145.13" cy="870.35" r="4.2" fill="none" stroke="#FFFFFF" stroke-width="1.2"/><path d="M1145.13 866.15 A4.200000000000001 4.200000000000001 0 0 0 1145.13 874.55Z" fill="#FFFFFF"/><text x="1155.93" y="874" class="sans" font-size="12" font-weight="500" fill="#FFFFFF">Strong inference</text>
+<circle cx="1053.03" cy="870.35" r="4.8" fill="#85838F"/><text x="1063.83" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Observed</text>
+<g id="card-standard"><g clip-path="url(#c121)" data-media="mountain"><rect x="180" y="240" width="240" height="160" fill="url(#g122)"/><path d="M180 360.0 L252.0 296.0 L300.0 336.0 L352.79999999999995 280.0 L420 352.0 V400.0 H180Z" fill="#34466E"/><path d="M338.4 294.4 L352.79999999999995 280.0 L369.6 297.6 L357.6 292.8 L348.0 299.2Z" fill="#F2F5FA"/><path d="M180 376.0 Q276.0 352.0 420 377.6 V400.0 H180Z" fill="#1C2742"/></g><rect x="180" y="240" width="240" height="160" rx="16" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="1"/><text x="180" y="422" class="sans" font-size="11" font-weight="600" letter-spacing="0.88" fill="#85838F">TRAVEL</text><text x="180" y="444" class="sans" font-size="17" font-weight="600" letter-spacing="-0.17" fill="#FFFFFF">The quiet hill towns nobody</text><text x="180" y="466.1" class="sans" font-size="17" font-weight="600" letter-spacing="-0.17" fill="#FFFFFF">has told you about</text><text x="180" y="492.2" class="sans tnum" font-size="12" font-weight="500" letter-spacing="0.12" fill="#85838F">Wake Travel · 6 min</text></g>
+<line x1="300" y1="320" x2="746" y2="266" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="300" cy="320" r="4" fill="#FF0049"/>
+<circle cx="760" cy="266" r="11" fill="#FF0049"/>
+<text x="760" y="270" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">1</text>
+<text x="780" y="270" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Media</text>
+<text x="780" y="288" class="sans" font-size="12" font-weight="500" fill="#85838F">3:2, radius 16, 1px inner stroke</text>
+<line x1="210" y1="422" x2="746" y2="322" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="210" cy="422" r="4" fill="#FF0049"/>
+<circle cx="760" cy="322" r="11" fill="#FF0049"/>
+<text x="760" y="326" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">2</text>
+<text x="780" y="326" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Kicker</text>
+<text x="780" y="344" class="sans" font-size="12" font-weight="500" fill="#85838F">11/600 caps tertiary</text>
+<line x1="300" y1="448" x2="746" y2="378" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="300" cy="448" r="4" fill="#FF0049"/>
+<circle cx="760" cy="378" r="11" fill="#FF0049"/>
+<text x="760" y="382" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">3</text>
+<text x="780" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Title</text>
+<text x="780" y="400" class="sans" font-size="12" font-weight="500" fill="#85838F">h3 17/600, 2 lines</text>
+<line x1="240" y1="502" x2="746" y2="434" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="240" cy="502" r="4" fill="#FF0049"/>
+<circle cx="760" cy="434" r="11" fill="#FF0049"/>
+<text x="760" y="438" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">4</text>
+<text x="780" y="438" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Metadata</text>
+<text x="780" y="456" class="sans" font-size="12" font-weight="500" fill="#85838F">source · time</text>
+<line x1="180" y1="226" x2="420" y2="226" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="180" y1="221" x2="180" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="420" y1="221" x2="420" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<text x="300" y="218" class="sans" font-size="11" font-weight="500" text-anchor="middle" fill="#DDBEF0">240</text>
+<text x="1160" y="262" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">DIMENSIONS</text>
+<text x="1160" y="280" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">240 wide in rails; 171 in two-up grids; media 3:2</text>
+<text x="1160" y="311.55" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RADIUS</text>
+<text x="1160" y="329.55" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">16 on media only</text>
+<text x="1160" y="361.1" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">PADDING</text>
+<text x="1160" y="379.1" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">0 (text sits on the ground, not in a box)</text>
+<text x="1160" y="410.65" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">IMAGE RATIO</text>
+<text x="1160" y="428.65" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">3:2 (travel, editorial) or 4:5 (looks)</text>
+<text x="1160" y="460.2" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">TYPE</text>
+<text x="1160" y="478.2" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">kicker 11/600 caps tertiary · h3 17/600 (2 lines) · metadata</text><text x="1160" y="495.75" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">12/500</text>
+<text x="1160" y="527.3" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">METADATA</text>
+<text x="1160" y="545.3" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Source · read time</text>
+<text x="1160" y="576.85" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">ACTIONS</text>
+<text x="1160" y="594.85" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Whole card is the tap target; long-press opens the tune</text><text x="1160" y="612.4" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">sheet</text>
+<text x="1160" y="643.95" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">STATES</text>
+<text x="1160" y="661.95" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">default · pressed · visited (title to text-secondary) · loading</text>
+<text x="1160" y="693.5" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RESPONSIVE</text>
+<text x="1160" y="711.5" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">2 per row mobile grid; 3–4 per rail on tablet; 4–5 on desktop.</text>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="t d">
+<title id="t">Stage background</title>
+<desc id="d">Dark stage with faint signal glow · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><radialGradient id="r125" cx="0.85" cy="0.1" r="0.6"><stop offset="0" stop-color="#FF0049" stop-opacity="0.22"/><stop offset="1" stop-color="#FF0049" stop-opacity="0"/></radialGradient></defs>
+<rect x="0" y="0" width="1920" height="1080" fill="#0C0C10"/>
+<rect x="0" y="0" width="1920" height="1080" fill="url(#r125)"/>
+</svg>

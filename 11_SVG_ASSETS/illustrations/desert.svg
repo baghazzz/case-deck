@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500" role="img" aria-labelledby="t d">
+<title id="t">Placeholder image: desert</title>
+<desc id="d">Original placeholder art (desert), 4:5. Replace with licensed photography in production. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c167"><rect x="0" y="0" width="400" height="500" rx="0"/></clipPath><linearGradient id="g168" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7C98B"/><stop offset="0.6" stop-color="#F29E5C"/><stop offset="1" stop-color="#C4623A"/></linearGradient></defs>
+<g clip-path="url(#c167)" data-media="desert"><rect x="0" y="0" width="400" height="500" fill="url(#g168)"/><circle cx="120" cy="175" r="48" fill="#FFF1D0" opacity="0.9"/><path d="M0 350.0 Q140.0 260.0 280.0 360.0 T400 325.0 V500 H0Z" fill="#B5532F"/><path d="M0 425.0 Q200.0 360.0 400 440.0 V500 H0Z" fill="#8A3A22"/></g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500" role="img" aria-labelledby="t d">
+<title id="t">Placeholder image: temple</title>
+<desc id="d">Original placeholder art (temple), 4:5. Replace with licensed photography in production. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c181"><rect x="0" y="0" width="400" height="500" rx="0"/></clipPath><linearGradient id="g182" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBD3A0"/><stop offset="1" stop-color="#E9876B"/></linearGradient></defs>
+<g clip-path="url(#c181)" data-media="temple"><rect x="0" y="0" width="400" height="500" fill="url(#g182)"/><path d="M80.0 425.0 V275.0 H320.0 V425.0Z" fill="#7A2E3A"/><path d="M152.0 275.0 Q200.0 100.0 248.0 275.0Z" fill="#7A2E3A"/><path d="M80.0 275.0 Q112.0 200.0 140.0 275.0Z" fill="#8F3A45"/><path d="M260.0 275.0 Q288.0 200.0 320.0 275.0Z" fill="#8F3A45"/><rect x="180" y="330" width="40" height="95" rx="20.0" fill="#3A1219"/><rect x="0" y="425" width="400" height="75" fill="#C9765A"/></g>
+</svg>

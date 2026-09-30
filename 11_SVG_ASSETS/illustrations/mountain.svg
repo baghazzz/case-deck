@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500" role="img" aria-labelledby="t d">
+<title id="t">Placeholder image: mountain</title>
+<desc id="d">Original placeholder art (mountain), 4:5. Replace with licensed photography in production. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c150"><rect x="0" y="0" width="400" height="500" rx="0"/></clipPath><linearGradient id="g151" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1F2F52"/><stop offset="0.6" stop-color="#7C94BD"/><stop offset="1" stop-color="#D7E1EF"/></linearGradient></defs>
+<g clip-path="url(#c150)" data-media="mountain"><rect x="0" y="0" width="400" height="500" fill="url(#g151)"/><path d="M0 375.0 L120.0 175.0 L200.0 300.0 L288.0 125.0 L400 350.0 V500 H0Z" fill="#34466E"/><path d="M264.0 170.0 L288.0 125.0 L316.0 180.0 L296.0 165.0 L280.0 185.0Z" fill="#F2F5FA"/><path d="M0 425.0 Q160.0 350.0 400 430.0 V500 H0Z" fill="#1C2742"/></g>
+</svg>

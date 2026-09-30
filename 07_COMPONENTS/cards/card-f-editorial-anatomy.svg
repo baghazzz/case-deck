@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Card F anatomy</title>
+<desc id="d">Editorial serif treatment is an original interpretation of the observed 'fashion magazine where you are the model' positioning. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c153"><rect x="180" y="240" width="358" height="238.67" rx="16"/></clipPath><linearGradient id="g154" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBD3A0"/><stop offset="1" stop-color="#E9876B"/></linearGradient></defs>
+<rect id="background" width="1600" height="900" fill="#0C0C10"/>
+<text x="64" y="84" class="sans" font-size="12" font-weight="600" letter-spacing="0.96" fill="#FF0049">CARDS · CARD F · ANATOMY</text>
+<text x="64" y="148" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" fill="#FFFFFF">Editorial / story card: anatomy</text>
+<text x="1016" y="76" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">Editorial serif treatment is an original interpretation of the observed</text><text x="1016" y="98.5" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">'fashion magazine where you are the model' positioning.</text>
+<line x1="64" y1="184" x2="1536" y2="184" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<line x1="64" y1="844" x2="1536" y2="844" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Wake · A Glance-inspired design system · v1.0</text>
+<path d="M1399.65 865.55 L1404.45 870.35 L1399.65 875.15 L1394.85 870.35Z" fill="none" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1410.45" y="874" class="sans" font-size="12" font-weight="500" fill="#FFFFFF">Original interpretation</text>
+<circle cx="1276.67" cy="870.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1287.47" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Reconstruction</text>
+<circle cx="1145.13" cy="870.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M1145.13 866.15 A4.200000000000001 4.200000000000001 0 0 0 1145.13 874.55Z" fill="#85838F"/><text x="1155.93" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Strong inference</text>
+<circle cx="1053.03" cy="870.35" r="4.8" fill="#85838F"/><text x="1063.83" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Observed</text>
+<g id="card-editorial"><g clip-path="url(#c153)" data-media="temple"><rect x="180" y="240" width="358" height="238.67" fill="url(#g154)"/><path d="M251.60000000000002 442.8666666666667 V371.26666666666665 H466.4 V442.8666666666667Z" fill="#7A2E3A"/><path d="M316.04 371.26666666666665 Q359.0 287.73333333333335 401.96 371.26666666666665Z" fill="#7A2E3A"/><path d="M251.60000000000002 371.26666666666665 Q280.24 335.4666666666667 305.3 371.26666666666665Z" fill="#8F3A45"/><path d="M412.7 371.26666666666665 Q437.76 335.4666666666667 466.4 371.26666666666665Z" fill="#8F3A45"/><rect x="341.1" y="397.52" width="35.8" height="45.35" rx="17.900000000000002" fill="#3A1219"/><rect x="180" y="442.87" width="358" height="35.8" fill="#C9765A"/></g><rect x="180" y="240" width="358" height="238.67" rx="16" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="1"/><text x="180" y="504.67" class="sans" font-size="11" font-weight="600" letter-spacing="0.88" fill="#FF4D7D">THE LONG READ</text><text x="180" y="538.67" class="disp" font-size="30" font-weight="400" letter-spacing="-0.15" fill="#FFFFFF">Forty-eight hours in a city that</text><text x="180" y="571.07" class="disp" font-size="30" font-weight="400" letter-spacing="-0.15" fill="#FFFFFF">wakes before you do</text><text x="180" y="607.47" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">A slow itinerary for Varanasi: dawn on the ghats, lunch in</text><text x="180" y="626.32" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">the lanes, and the ceremony worth staying up for.</text><text x="180" y="655.17" class="sans tnum" font-size="12" font-weight="500" letter-spacing="0.12" fill="#85838F">Words by Meera Rao · 9 min read</text></g>
+<line x1="360" y1="350" x2="746" y2="266" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="360" cy="350" r="4" fill="#FF0049"/>
+<circle cx="760" cy="266" r="11" fill="#FF0049"/>
+<text x="760" y="270" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">1</text>
+<text x="780" y="270" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Media</text>
+<text x="780" y="288" class="sans" font-size="12" font-weight="500" fill="#85838F">3:2, radius 16</text>
+<line x1="230" y1="504" x2="746" y2="322" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="230" cy="504" r="4" fill="#FF0049"/>
+<circle cx="760" cy="322" r="11" fill="#FF0049"/>
+<text x="760" y="326" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">2</text>
+<text x="780" y="326" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Kicker</text>
+<text x="780" y="344" class="sans" font-size="12" font-weight="500" fill="#85838F">signal-light caps</text>
+<line x1="380" y1="540" x2="746" y2="378" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="380" cy="540" r="4" fill="#FF0049"/>
+<circle cx="760" cy="378" r="11" fill="#FF0049"/>
+<text x="760" y="382" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">3</text>
+<text x="780" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Serif headline</text>
+<text x="780" y="400" class="sans" font-size="12" font-weight="500" fill="#85838F">display 30/1.08</text>
+<line x1="380" y1="620" x2="746" y2="434" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="380" cy="620" r="4" fill="#FF0049"/>
+<circle cx="760" cy="434" r="11" fill="#FF0049"/>
+<text x="760" y="438" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">4</text>
+<text x="780" y="438" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Dek</text>
+<text x="780" y="456" class="sans" font-size="12" font-weight="500" fill="#85838F">body-s 13, 3 lines</text>
+<line x1="260" y1="666" x2="746" y2="490" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="260" cy="666" r="4" fill="#FF0049"/>
+<circle cx="760" cy="490" r="11" fill="#FF0049"/>
+<text x="760" y="494" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">5</text>
+<text x="780" y="494" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Byline</text>
+<text x="780" y="512" class="sans" font-size="12" font-weight="500" fill="#85838F">metadata</text>
+<line x1="180" y1="226" x2="538" y2="226" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="180" y1="221" x2="180" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="538" y1="221" x2="538" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<text x="359" y="218" class="sans" font-size="11" font-weight="500" text-anchor="middle" fill="#DDBEF0">358</text>
+<text x="1160" y="262" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">DIMENSIONS</text>
+<text x="1160" y="280" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">358 wide; media 3:2</text>
+<text x="1160" y="311.55" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RADIUS</text>
+<text x="1160" y="329.55" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">16 on media</text>
+<text x="1160" y="361.1" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">PADDING</text>
+<text x="1160" y="379.1" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">0</text>
+<text x="1160" y="410.65" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">IMAGE RATIO</text>
+<text x="1160" y="428.65" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">3:2</text>
+<text x="1160" y="460.2" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">TYPE</text>
+<text x="1160" y="478.2" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">kicker 11/600 signal-light · display 30/1.08 serif · dek 13/400</text><text x="1160" y="495.75" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">(3 lines) · byline metadata</text>
+<text x="1160" y="527.3" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">METADATA</text>
+<text x="1160" y="545.3" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Byline · read time</text>
+<text x="1160" y="576.85" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">ACTIONS</text>
+<text x="1160" y="594.85" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Whole card; bookmark in the detail page</text>
+<text x="1160" y="626.4" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">STATES</text>
+<text x="1160" y="644.4" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">default · pressed · read</text>
+<text x="1160" y="675.95" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RESPONSIVE</text>
+<text x="1160" y="693.95" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Full width mobile; 6 of 12 columns desktop with dek beside</text><text x="1160" y="711.5" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">the image.</text>
+</svg>

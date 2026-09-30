@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" role="img" aria-labelledby="t d">
+<title id="t">Live signal dot</title>
+<desc id="d">Live indicator: dot with pulse rings (animate ring scale 1→2.2, opacity .6→0) · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<circle cx="120" cy="120" r="60" fill="#FF0049" opacity="0.12"/>
+<circle cx="120" cy="120" r="36" fill="#FF0049" opacity="0.25"/>
+<circle cx="120" cy="120" r="16" fill="#FF0049"/>
+</svg>

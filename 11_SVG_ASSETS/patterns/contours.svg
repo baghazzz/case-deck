@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="t d">
+<title id="t">Contour pattern</title>
+<desc id="d">Topographic contours for travel moments · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style></defs>
+<rect x="0" y="0" width="400" height="400" fill="#0C0C10"/>
+<path d="M180 220 C180 198.0 218.0 202.0 220 210 S188.0 251.0 180 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.28"/>
+<path d="M158 220 C158 173.8 237.8 182.2 242 210 S174.8 274.1 158 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.265"/>
+<path d="M136 220 C136 149.6 257.6 162.4 264 210 S161.6 297.2 136 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.25"/>
+<path d="M114 220 C114 125.39999999999999 277.4 142.6 286 210 S148.4 320.3 114 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.235"/>
+<path d="M92 220 C92 101.19999999999999 297.2 122.8 308 210 S135.2 343.4 92 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.22"/>
+<path d="M70 220 C70 77.0 317.0 103.0 330 210 S122.0 366.5 70 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.205"/>
+<path d="M48 220 C48 52.79999999999998 336.8 83.19999999999999 352 210 S108.8 389.6 48 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.19"/>
+<path d="M26 220 C26 28.599999999999994 356.6 63.400000000000006 374 210 S95.60000000000001 412.70000000000005 26 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.175"/>
+<path d="M4 220 C4 4.399999999999977 376.4 43.599999999999994 396 210 S82.4 435.8 4 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.16"/>
+<path d="M-18 220 C-18 -19.80000000000001 396.20000000000005 23.799999999999983 418 210 S69.20000000000002 458.9 -18 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.145"/>
+<path d="M-40 220 C-40 -44.0 416.0 4.0 440 210 S56.0 482.0 -40 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.13"/>
+<path d="M-62 220 C-62 -68.20000000000005 435.8 -15.800000000000011 462 210 S42.80000000000001 505.1 -62 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.115"/>
+<path d="M-84 220 C-84 -92.40000000000003 455.6 -35.599999999999994 484 210 S29.599999999999994 528.2 -84 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.1"/>
+<path d="M-106 220 C-106 -116.60000000000002 475.40000000000003 -55.400000000000034 506 210 S16.400000000000006 551.3 -106 220Z" fill="none" stroke="#DDBEF0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" opacity="0.085"/>
+</svg>

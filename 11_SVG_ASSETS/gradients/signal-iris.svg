@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400" role="img" aria-labelledby="t d">
+<title id="t">Gradient: signal-iris</title>
+<desc id="d">Gradient token signal-iris · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><linearGradient id="g122" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#FF0049"/><stop offset="1" stop-color="#DDBEF0"/></linearGradient></defs>
+<rect x="0" y="0" width="400" height="400" fill="url(#g122)"/>
+</svg>

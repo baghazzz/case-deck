@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500" role="img" aria-labelledby="t d">
+<title id="t">Placeholder image: watch</title>
+<desc id="d">Original placeholder art (watch), 4:5. Replace with licensed photography in production. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c172"><rect x="0" y="0" width="400" height="500" rx="0"/></clipPath></defs>
+<g clip-path="url(#c172)" data-media="watch"><rect x="0" y="0" width="400" height="500" fill="#F1EEEA"/><ellipse cx="200" cy="410" rx="120" ry="17.5" fill="#000" opacity=".12"/><rect x="184" y="60" width="32" height="350" rx="4" fill="#2B2230"/><circle cx="200" cy="235" r="68" fill="#2B2230"/><circle cx="200" cy="235" r="56" fill="#F7F4EF"/><line x1="200" y1="235" x2="200" y2="195" stroke="#2B2230" stroke-width="2" stroke-linecap="round"/><line x1="200" y1="235" x2="224" y2="250" stroke="#FF0049" stroke-width="2" stroke-linecap="round"/></g>
+</svg>

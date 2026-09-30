@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" role="img" aria-labelledby="t d">
+<title id="t">Light paper background</title>
+<desc id="d">Light theme ground with a faint iris corner · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><radialGradient id="r130" cx="0.05" cy="0.95" r="0.5"><stop offset="0" stop-color="#DDBEF0" stop-opacity="0.45"/><stop offset="1" stop-color="#DDBEF0" stop-opacity="0"/></radialGradient></defs>
+<rect x="0" y="0" width="1920" height="1080" fill="#F6F5F8"/>
+<rect x="0" y="0" width="1920" height="1080" fill="url(#r130)"/>
+</svg>

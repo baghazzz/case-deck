@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500" role="img" aria-labelledby="t d">
+<title id="t">Placeholder image: dusk</title>
+<desc id="d">Original placeholder art (dusk), 4:5. Replace with licensed photography in production. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c144"><rect x="0" y="0" width="400" height="500" rx="0"/></clipPath><linearGradient id="g145" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="0.45" stop-color="#6A1C5C"/><stop offset="0.75" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFB38A"/></linearGradient></defs>
+<g clip-path="url(#c144)" data-media="dusk"><rect x="0" y="0" width="400" height="500" fill="url(#g145)"/><circle cx="248" cy="310" r="64" fill="#FFD9B0" opacity="0.95"/><path d="M0 360.0 Q100.0 310.0 200.0 360.0 T400 350.0 V500 H0Z" fill="#2A0E2E"/><path d="M0 410.0 Q120.0 380.0 240.0 420.0 T400 400.0 V500 H0Z" fill="#12060F"/></g>
+</svg>

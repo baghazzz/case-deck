@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Card E anatomy</title>
+<desc id="d">Recommendation reasons ('Because you saved…') are an original interpretation of observed personalisation claims (feeds tuned by weather, trends, occasions, saves and dwell time). · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c144"><rect x="180" y="240" width="240" height="320" rx="16"/></clipPath><linearGradient id="g145" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F7C98B"/><stop offset="0.6" stop-color="#F29E5C"/><stop offset="1" stop-color="#C4623A"/></linearGradient><linearGradient id="g146" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/><stop offset="0.3" stop-color="#000" stop-opacity="0.0"/><stop offset="0.55" stop-color="#000" stop-opacity="0.35"/><stop offset="1" stop-color="#000" stop-opacity="0.85"/></linearGradient></defs>
+<rect id="background" width="1600" height="900" fill="#0C0C10"/>
+<text x="64" y="84" class="sans" font-size="12" font-weight="600" letter-spacing="0.96" fill="#FF0049">CARDS · CARD E · ANATOMY</text>
+<text x="64" y="148" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" fill="#FFFFFF">Recommendation card: anatomy</text>
+<text x="1016" y="76" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">Recommendation reasons ('Because you saved…') are an original</text><text x="1016" y="98.5" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">interpretation of observed personalisation claims (feeds tuned by</text><text x="1016" y="121" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">weather, trends, occasions, saves and dwell time).</text>
+<line x1="64" y1="184" x2="1536" y2="184" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<line x1="64" y1="844" x2="1536" y2="844" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Wake · A Glance-inspired design system · v1.0</text>
+<path d="M1399.65 865.55 L1404.45 870.35 L1399.65 875.15 L1394.85 870.35Z" fill="none" stroke="#FFFFFF" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1410.45" y="874" class="sans" font-size="12" font-weight="500" fill="#FFFFFF">Original interpretation</text>
+<circle cx="1276.67" cy="870.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1287.47" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Reconstruction</text>
+<circle cx="1145.13" cy="870.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><path d="M1145.13 866.15 A4.200000000000001 4.200000000000001 0 0 0 1145.13 874.55Z" fill="#85838F"/><text x="1155.93" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Strong inference</text>
+<circle cx="1053.03" cy="870.35" r="4.8" fill="#85838F"/><text x="1063.83" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Observed</text>
+<g id="card-recommendation"><g clip-path="url(#c144)" data-media="desert"><rect x="180" y="240" width="240" height="320" fill="url(#g145)"/><circle cx="252" cy="352" r="28.8" fill="#FFF1D0" opacity="0.9"/><path d="M180 464.0 Q264.0 406.4 348.0 470.4 T420 448.0 V560 H180Z" fill="#B5532F"/><path d="M180 512.0 Q300.0 470.4 420 521.6 V560 H180Z" fill="#8A3A22"/></g><rect x="180" y="240" width="240" height="320" rx="16" fill="url(#g146)"/><rect x="180" y="240" width="240" height="320" rx="16" fill="none" stroke="rgba(255,255,255,.08)" stroke-width="1"/><rect x="192" y="252" width="209.59" height="28" rx="14" fill="rgba(37,26,46,.86)"/><g transform="translate(200 258) scale(0.6667)" fill="none" stroke="#DDBEF0" stroke-width="2.625" stroke-linecap="round" stroke-linejoin="round" data-icon="personalization"><path d="M11 3.5c.6 4.3 2.2 5.9 6.5 6.5-4.3.6-5.9 2.2-6.5 6.5-.6-4.3-2.2-5.9-6.5-6.5 4.3-.6 5.9-2.2 6.5-6.5z"/><path d="M18.5 15.5c.2 1.3.7 1.8 2 2-1.3.2-1.8.7-2 2-.2-1.3-.7-1.8-2-2 1.3-.2 1.8-.7 2-2z"/></g><text x="222" y="270.5" class="sans" font-size="12" font-weight="600" fill="#DDBEF0">Because you saved Jaisalmer</text><text x="196" y="493" class="sans" font-size="19" font-weight="700" letter-spacing="-0.19" fill="#FFFFFF">Desert camps that</text><text x="196" y="516" class="sans" font-size="19" font-weight="700" letter-spacing="-0.19" fill="#FFFFFF">open after the rains</text><text x="196" y="542" class="sans tnum" font-size="12" font-weight="500" letter-spacing="0.12" fill="rgba(255,255,255,.72)">12 stays · from ₹3,800</text><g transform="translate(386 528) scale(0.8333)" fill="none" stroke="rgba(255,255,255,.8)" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" data-icon="more"><circle cx="6" cy="12" r="1.6" fill="rgba(255,255,255,.8)"/><circle cx="12" cy="12" r="1.6" fill="rgba(255,255,255,.8)"/><circle cx="18" cy="12" r="1.6" fill="rgba(255,255,255,.8)"/></g></g>
+<line x1="300" y1="266" x2="746" y2="266" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="300" cy="266" r="4" fill="#FF0049"/>
+<circle cx="760" cy="266" r="11" fill="#FF0049"/>
+<text x="760" y="270" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">1</text>
+<text x="780" y="270" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Reason chip</text>
+<text x="780" y="288" class="sans" font-size="12" font-weight="500" fill="#85838F">iris, sparkle + 'Because…'</text>
+<line x1="360" y1="380" x2="746" y2="322" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="360" cy="380" r="4" fill="#FF0049"/>
+<circle cx="760" cy="322" r="11" fill="#FF0049"/>
+<text x="760" y="326" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">2</text>
+<text x="780" y="326" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Media</text>
+<text x="780" y="344" class="sans" font-size="12" font-weight="500" fill="#85838F">3:4 full bleed + scrim</text>
+<line x1="280" y1="500" x2="746" y2="378" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="280" cy="500" r="4" fill="#FF0049"/>
+<circle cx="760" cy="378" r="11" fill="#FF0049"/>
+<text x="760" y="382" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">3</text>
+<text x="780" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Title</text>
+<text x="780" y="400" class="sans" font-size="12" font-weight="500" fill="#85838F">h3 19/700 white, 3 lines</text>
+<line x1="396" y1="530" x2="746" y2="434" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="396" cy="530" r="4" fill="#FF0049"/>
+<circle cx="760" cy="434" r="11" fill="#FF0049"/>
+<text x="760" y="438" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">4</text>
+<text x="780" y="438" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Tune</text>
+<text x="780" y="456" class="sans" font-size="12" font-weight="500" fill="#85838F">overflow → more/less/why</text>
+<line x1="240" y1="542" x2="746" y2="490" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="240" cy="542" r="4" fill="#FF0049"/>
+<circle cx="760" cy="490" r="11" fill="#FF0049"/>
+<text x="760" y="494" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">5</text>
+<text x="780" y="494" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Metadata</text>
+<text x="780" y="512" class="sans" font-size="12" font-weight="500" fill="#85838F">count · from-price</text>
+<line x1="180" y1="226" x2="420" y2="226" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="180" y1="221" x2="180" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="420" y1="221" x2="420" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<text x="300" y="218" class="sans" font-size="11" font-weight="500" text-anchor="middle" fill="#DDBEF0">240</text>
+<text x="1160" y="262" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">DIMENSIONS</text>
+<text x="1160" y="280" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">240 × 320 (3:4) in rails</text>
+<text x="1160" y="311.55" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RADIUS</text>
+<text x="1160" y="329.55" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">16</text>
+<text x="1160" y="361.1" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">PADDING</text>
+<text x="1160" y="379.1" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">16</text>
+<text x="1160" y="410.65" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">IMAGE RATIO</text>
+<text x="1160" y="428.65" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">3:4 full-bleed</text>
+<text x="1160" y="460.2" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">TYPE</text>
+<text x="1160" y="478.2" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">reason chip caption 12/600 iris · title h3 19/700 white (3</text><text x="1160" y="495.75" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">lines) · metadata 12/500 72% white</text>
+<text x="1160" y="527.3" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">METADATA</text>
+<text x="1160" y="545.3" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Count · from-price or open-now</text>
+<text x="1160" y="576.85" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">ACTIONS</text>
+<text x="1160" y="594.85" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Overflow (more) opens 'More like this / Less like this / Why'</text>
+<text x="1160" y="626.4" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">STATES</text>
+<text x="1160" y="644.4" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">default · pressed · dismissed (collapses, toast with Undo) ·</text><text x="1160" y="661.95" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">loading</text>
+<text x="1160" y="693.5" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RESPONSIVE</text>
+<text x="1160" y="711.5" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Rail on all sizes; 5 visible on desktop.</text>
+</svg>

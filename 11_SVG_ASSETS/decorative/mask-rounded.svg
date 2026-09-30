@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="300" viewBox="0 0 240 300" role="img" aria-labelledby="t d">
+<title id="t">Image mask: rounded</title>
+<desc id="d">rounded mask applied to placeholder imagery · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c132"><path d="M24 0H216A24 24 0 0 1 240 24V276A24 24 0 0 1 216 300H24A24 24 0 0 1 0 276V24A24 24 0 0 1 24 0Z"/></clipPath><clipPath id="c133"><rect x="0" y="0" width="240" height="300" rx="0"/></clipPath><linearGradient id="g134" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1A0B2E"/><stop offset="0.45" stop-color="#6A1C5C"/><stop offset="0.75" stop-color="#FF4D6D"/><stop offset="1" stop-color="#FFB38A"/></linearGradient></defs>
+<g clip-path="url(#c132)"><g clip-path="url(#c133)" data-media="dusk"><rect x="0" y="0" width="240" height="300" fill="url(#g134)"/><circle cx="148.8" cy="186" r="38.4" fill="#FFD9B0" opacity="0.95"/><path d="M0 216.0 Q60.0 186.0 120.0 216.0 T240 210.0 V300 H0Z" fill="#2A0E2E"/><path d="M0 245.99999999999997 Q72.0 228.0 144.0 252.0 T240 240.0 V300 H0Z" fill="#12060F"/></g></g>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="500" viewBox="0 0 400 500" role="img" aria-labelledby="t d">
+<title id="t">Placeholder image: news</title>
+<desc id="d">Original placeholder art (news), 4:5. Replace with licensed photography in production. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c177"><rect x="0" y="0" width="400" height="500" rx="0"/></clipPath><linearGradient id="g178" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1D2B3A"/><stop offset="1" stop-color="#3C5470"/></linearGradient></defs>
+<g clip-path="url(#c177)" data-media="news"><rect x="0" y="0" width="400" height="500" fill="url(#g178)"/><rect x="48" y="125" width="120" height="250" fill="#0F1824" opacity="0.8"/><rect x="184" y="90" width="80" height="300" fill="#0F1824" opacity="0.7"/><rect x="280" y="160" width="72" height="225" fill="#0F1824" opacity="0.85"/><rect x="0" y="390" width="400" height="110" fill="#0A1119"/><circle cx="224" cy="310" r="20" fill="#FF0049" opacity="0.85"/></g>
+</svg>

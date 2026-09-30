@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="t d">
+<title id="t">Card D anatomy</title>
+<desc id="d">Product tiles with brand, name, price and a save heart are strongly inferred from Glance AI's shoppable collections (400+ brand partners); freshness line is original. · Wake, A Glance-inspired design system. Original vector artwork; not a Glance asset.</desc>
+<defs><style>.sans{font-family:Inter, 'Helvetica Neue', Arial, sans-serif;}.disp{font-family:'Instrument Serif', 'Times New Roman', Georgia, serif;}.tnum{font-variant-numeric:tabular-nums;}</style><clipPath id="c134"><rect x="180" y="240" width="171" height="213.75" rx="16"/></clipPath></defs>
+<rect id="background" width="1600" height="900" fill="#0C0C10"/>
+<text x="64" y="84" class="sans" font-size="12" font-weight="600" letter-spacing="0.96" fill="#FF0049">CARDS · CARD D · ANATOMY</text>
+<text x="64" y="148" class="disp" font-size="64" font-weight="400" letter-spacing="-0.32" fill="#FFFFFF">Commerce card: anatomy</text>
+<text x="1016" y="76" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">Product tiles with brand, name, price and a save heart are strongly</text><text x="1016" y="98.5" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">inferred from Glance AI's shoppable collections (400+ brand partners);</text><text x="1016" y="121" class="sans" font-size="15" font-weight="400" fill="#B8B8C2">freshness line is original.</text>
+<line x1="64" y1="184" x2="1536" y2="184" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<line x1="64" y1="844" x2="1536" y2="844" stroke="rgba(255, 255, 255, 0.08)" stroke-width="1" stroke-linecap="butt"/>
+<text x="64" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Wake · A Glance-inspired design system · v1.0</text>
+<path d="M1399.65 865.55 L1404.45 870.35 L1399.65 875.15 L1394.85 870.35Z" fill="none" stroke="#85838F" stroke-width="1.2" stroke-linecap="round" stroke-linejoin="round"/><text x="1410.45" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Original interpretation</text>
+<circle cx="1276.67" cy="870.35" r="4.2" fill="none" stroke="#85838F" stroke-width="1.2"/><text x="1287.47" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Reconstruction</text>
+<circle cx="1145.13" cy="870.35" r="4.2" fill="none" stroke="#FFFFFF" stroke-width="1.2"/><path d="M1145.13 866.15 A4.200000000000001 4.200000000000001 0 0 0 1145.13 874.55Z" fill="#FFFFFF"/><text x="1155.93" y="874" class="sans" font-size="12" font-weight="500" fill="#FFFFFF">Strong inference</text>
+<circle cx="1053.03" cy="870.35" r="4.8" fill="#85838F"/><text x="1063.83" y="874" class="sans" font-size="12" font-weight="500" fill="#85838F">Observed</text>
+<g id="card-commerce"><g clip-path="url(#c134)" data-media="sneaker"><rect x="180" y="240" width="171" height="213.75" fill="#F1EEEA"/><ellipse cx="265.5" cy="415.27" rx="51.3" ry="7.48" fill="#000" opacity=".12"/><path d="M210.78 398.175 L210.78 355.425 Q214.2 340.4625 229.59 344.7375 L239.85 351.15 Q246.69 331.9125 260.37 334.05 L275.76 357.5625 Q303.12 366.1125 318.51 376.8 Q328.77 385.35 325.35 398.175Z" fill="#FF0049"/><path d="M209.07 397.10625 H327.06 Q328.77 408.8625 316.8 408.8625 H214.2 Q207.36 408.8625 209.07 397.10625Z" fill="#FFFFFF"/><path d="M217.62 372.525 Q256.95 381.07500000000005 282.6 368.25" fill="none" stroke="#FFFFFF" stroke-width="2.052" stroke-linecap="round" stroke-linejoin="round"/><line x1="250.11" y1="344.74" x2="256.95" y2="354.36" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/><line x1="256.95" y1="350.08" x2="263.79" y2="358.63" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/><line x1="263.79" y1="355.43" x2="270.63" y2="362.91" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/></g><g><rect x="190" y="250" width="101.11" height="22" rx="11.0" fill="#E3F5EC"/><g transform="translate(197 254.5) scale(0.5417)" fill="none" stroke="#0A7F4A" stroke-width="3.231" stroke-linecap="round" stroke-linejoin="round" data-icon="tag"><path d="M3.5 12.2V4.5a1 1 0 0 1 1-1h7.7l8.3 8.3a1.4 1.4 0 0 1 0 2l-6.7 6.7a1.4 1.4 0 0 1-2 0z"/><circle cx="8" cy="8" r="1.6" fill="#0A7F4A"/></g><text x="213" y="264.8" class="sans" font-size="10.5" font-weight="600" letter-spacing="0.84" fill="#0A7F4A">PRICE DROP</text></g><circle cx="325" cy="266" r="16" fill="rgba(255,255,255,.92)"/><g transform="translate(315 256) scale(0.8333)" fill="none" stroke="#0C0C10" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" data-icon="like"><path d="M12 20.2s-7.8-4.7-7.8-10.3A4.4 4.4 0 0 1 12 7.2a4.4 4.4 0 0 1 7.8 2.7c0 5.6-7.8 10.3-7.8 10.3z"/></g><text x="180" y="473.75" class="sans" font-size="12" font-weight="600" fill="#85838F">Northline</text><text x="180" y="492.75" class="sans" font-size="13" font-weight="500" fill="#FFFFFF">Court low sneaker in signal</text><text x="180" y="510.3" class="sans" font-size="13" font-weight="500" fill="#FFFFFF">red</text><text x="180" y="535.85" class="sans tnum" font-size="17" font-weight="700" letter-spacing="-0.17" fill="#FFFFFF">₹4,299</text><text x="246.25" y="535.85" class="sans tnum" font-size="12" font-weight="500" letter-spacing="0.12" fill="#85838F">₹5,999</text><line x1="246.25" y1="531.85" x2="286.61" y2="531.85" stroke="#85838F" stroke-width="1" stroke-linecap="butt"/><text x="292.61" y="535.85" class="sans" font-size="12" font-weight="600" letter-spacing="0.12" fill="#2FD08A">28% off</text><circle cx="183" cy="550.85" r="3" fill="#2FD08A"/><text x="191" y="554.85" class="sans" font-size="11" font-weight="500" fill="#85838F">Price checked 9:41</text></g>
+<line x1="230" y1="261" x2="746" y2="266" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="230" cy="261" r="4" fill="#FF0049"/>
+<circle cx="760" cy="266" r="11" fill="#FF0049"/>
+<text x="760" y="270" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">1</text>
+<text x="780" y="270" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Status badge</text>
+<text x="780" y="288" class="sans" font-size="12" font-weight="500" fill="#85838F">price-drop, light</text>
+<line x1="325" y1="266" x2="746" y2="322" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="325" cy="266" r="4" fill="#FF0049"/>
+<circle cx="760" cy="322" r="11" fill="#FF0049"/>
+<text x="760" y="326" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">2</text>
+<text x="780" y="326" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Save</text>
+<text x="780" y="344" class="sans" font-size="12" font-weight="500" fill="#85838F">32px white circle + heart</text>
+<line x1="260" y1="350" x2="746" y2="378" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="260" cy="350" r="4" fill="#FF0049"/>
+<circle cx="760" cy="378" r="11" fill="#FF0049"/>
+<text x="760" y="382" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">3</text>
+<text x="780" y="382" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Image</text>
+<text x="780" y="400" class="sans" font-size="12" font-weight="500" fill="#85838F">4:5 on neutral ground</text>
+<line x1="210" y1="470" x2="746" y2="434" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="210" cy="470" r="4" fill="#FF0049"/>
+<circle cx="760" cy="434" r="11" fill="#FF0049"/>
+<text x="760" y="438" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">4</text>
+<text x="780" y="438" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Brand</text>
+<text x="780" y="456" class="sans" font-size="12" font-weight="500" fill="#85838F">caption 12/600</text>
+<line x1="270" y1="496" x2="746" y2="490" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="270" cy="496" r="4" fill="#FF0049"/>
+<circle cx="760" cy="490" r="11" fill="#FF0049"/>
+<text x="760" y="494" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">5</text>
+<text x="780" y="494" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Name</text>
+<text x="780" y="512" class="sans" font-size="12" font-weight="500" fill="#85838F">13/500, 2 lines</text>
+<line x1="240" y1="530" x2="746" y2="546" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="240" cy="530" r="4" fill="#FF0049"/>
+<circle cx="760" cy="546" r="11" fill="#FF0049"/>
+<text x="760" y="550" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">6</text>
+<text x="780" y="550" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Price row</text>
+<text x="780" y="568" class="sans" font-size="12" font-weight="500" fill="#85838F">17/700 tabular + was + off</text>
+<line x1="240" y1="550" x2="746" y2="602" stroke="#FF0049" stroke-width="1" stroke-linecap="butt" opacity="0.7"/>
+<circle cx="240" cy="550" r="4" fill="#FF0049"/>
+<circle cx="760" cy="602" r="11" fill="#FF0049"/>
+<text x="760" y="606" class="sans" font-size="11" font-weight="600" text-anchor="middle" fill="#FFFFFF">7</text>
+<text x="780" y="606" class="sans" font-size="14" font-weight="600" letter-spacing="-0.07" fill="#FFFFFF">Freshness</text>
+<text x="780" y="624" class="sans" font-size="12" font-weight="500" fill="#85838F">success dot + time</text>
+<line x1="180" y1="226" x2="351" y2="226" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="180" y1="221" x2="180" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<line x1="351" y1="221" x2="351" y2="231" stroke="#DDBEF0" stroke-width="1" stroke-linecap="butt"/>
+<text x="265.5" y="218" class="sans" font-size="11" font-weight="500" text-anchor="middle" fill="#DDBEF0">171</text>
+<text x="1160" y="262" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">DIMENSIONS</text>
+<text x="1160" y="280" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">171 × auto in a 2-up grid (image 4:5 = 171 × 214)</text>
+<text x="1160" y="311.55" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RADIUS</text>
+<text x="1160" y="329.55" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">16 on image</text>
+<text x="1160" y="361.1" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">PADDING</text>
+<text x="1160" y="379.1" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">0; text below</text>
+<text x="1160" y="410.65" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">IMAGE RATIO</text>
+<text x="1160" y="428.65" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">4:5 (fashion, products on neutral ground); 1:1 for accessories</text>
+<text x="1160" y="460.2" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">TYPE</text>
+<text x="1160" y="478.2" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">brand caption 12/600 tertiary · name 13/500 (2 lines) · price</text><text x="1160" y="495.75" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">h3 17/700 tabular · was-price 12 strike · off 12/600 success</text>
+<text x="1160" y="527.3" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">METADATA</text>
+<text x="1160" y="545.3" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Store · freshness ('Price checked 9:41')</text>
+<text x="1160" y="576.85" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">ACTIONS</text>
+<text x="1160" y="594.85" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">Heart (32 circle, white 92%) top-right; whole card opens</text><text x="1160" y="612.4" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">PDP</text>
+<text x="1160" y="643.95" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">STATES</text>
+<text x="1160" y="661.95" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">default · liked (heart filled signal, like-pop) · price-drop</text><text x="1160" y="679.5" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">badge · out-of-stock (image 40% + 'Sold out' badge) ·</text><text x="1160" y="697.05" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">loading</text>
+<text x="1160" y="728.6" class="sans" font-size="10" font-weight="600" letter-spacing="0.8" fill="#85838F">RESPONSIVE</text>
+<text x="1160" y="746.6" class="sans" font-size="13" font-weight="400" fill="#B8B8C2">2 per row mobile, 4 tablet, 5–6 desktop.</text>
+</svg>
